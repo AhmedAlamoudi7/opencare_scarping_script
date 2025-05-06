@@ -1,0 +1,303 @@
+[
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "BeautifulSoup",
+        "importPath": "bs4",
+        "description": "bs4",
+        "isExtraImport": true,
+        "detail": "bs4",
+        "documentation": {}
+    },
+    {
+        "label": "BeautifulSoup",
+        "importPath": "bs4",
+        "description": "bs4",
+        "isExtraImport": true,
+        "detail": "bs4",
+        "documentation": {}
+    },
+    {
+        "label": "ThreadPoolExecutor",
+        "importPath": "concurrent.futures",
+        "description": "concurrent.futures",
+        "isExtraImport": true,
+        "detail": "concurrent.futures",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm",
+        "description": "tqdm",
+        "isExtraImport": true,
+        "detail": "tqdm",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm",
+        "description": "tqdm",
+        "isExtraImport": true,
+        "detail": "tqdm",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm",
+        "description": "tqdm",
+        "isExtraImport": true,
+        "detail": "tqdm",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "ThreadPool",
+        "importPath": "multiprocessing.pool",
+        "description": "multiprocessing.pool",
+        "isExtraImport": true,
+        "detail": "multiprocessing.pool",
+        "documentation": {}
+    },
+    {
+        "label": "ThreadPool",
+        "importPath": "multiprocessing.pool",
+        "description": "multiprocessing.pool",
+        "isExtraImport": true,
+        "detail": "multiprocessing.pool",
+        "documentation": {}
+    },
+    {
+        "label": "shutil",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "shutil",
+        "description": "shutil",
+        "detail": "shutil",
+        "documentation": {}
+    },
+    {
+        "label": "defaultdict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "defaultdict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "xml.etree.ElementTree",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "xml.etree.ElementTree",
+        "description": "xml.etree.ElementTree",
+        "detail": "xml.etree.ElementTree",
+        "documentation": {}
+    },
+    {
+        "label": "argparse",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "argparse",
+        "description": "argparse",
+        "detail": "argparse",
+        "documentation": {}
+    },
+    {
+        "label": "SitemapFetcher",
+        "importPath": "functions.search",
+        "description": "functions.search",
+        "isExtraImport": true,
+        "detail": "functions.search",
+        "documentation": {}
+    },
+    {
+        "label": "JSONFormatter",
+        "importPath": "functions.mpc_formatter",
+        "description": "functions.mpc_formatter",
+        "isExtraImport": true,
+        "detail": "functions.mpc_formatter",
+        "documentation": {}
+    },
+    {
+        "label": "fetch_all_data",
+        "importPath": "functions.fetch_data_bulk",
+        "description": "functions.fetch_data_bulk",
+        "isExtraImport": true,
+        "detail": "functions.fetch_data_bulk",
+        "documentation": {}
+    },
+    {
+        "label": "process_url",
+        "kind": 2,
+        "importPath": "functions.fetch_data_bulk",
+        "description": "functions.fetch_data_bulk",
+        "peekOfCode": "def process_url(url, output_directory):\n    max_retries = 2\n    retry_delay = 15\n    os.makedirs(output_directory, exist_ok=True)\n    # Extract ID from URL\n    #for clinic \n    id_pattern = re.compile(r\"-(\\d+)[a-z]?/\")\n    match = id_pattern.search(url)\n    provider_id = match.group(1) if match else None\n    if not provider_id:",
+        "detail": "functions.fetch_data_bulk",
+        "documentation": {}
+    },
+    {
+        "label": "fetch_all_data",
+        "kind": 2,
+        "importPath": "functions.fetch_data_bulk",
+        "description": "functions.fetch_data_bulk",
+        "peekOfCode": "def fetch_all_data(urls, output_directory, max_threads=10):\n    completed_urls = set()\n    progress_file = os.path.join(output_directory, \"progress.txt\")\n    # Load previously completed URLs\n    if os.path.exists(progress_file):\n        with open(progress_file, \"r\") as f:\n            completed_urls = {line.strip() for line in f}\n        print(f\"Loaded {len(completed_urls)} completed URLs from {progress_file}.\")\n    else:\n        print(\"No progress file found. Starting fresh.\")",
+        "detail": "functions.fetch_data_bulk",
+        "documentation": {}
+    },
+    {
+        "label": "headers",
+        "kind": 5,
+        "importPath": "functions.fetch_data_bulk",
+        "description": "functions.fetch_data_bulk",
+        "peekOfCode": "headers = {\n    \"User-Agent\": (\n        \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) \"\n        \"AppleWebKit/537.36 (KHTML, like Gecko) \"\n        \"Chrome/114.0.0.0 Safari/537.36\"\n    ),\n    \"Accept-Language\": \"en-US,en;q=0.9\",\n    \"Referer\": \"https://www.google.com/\",\n    \"Accept\": \"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\",\n    \"Accept-Encoding\": \"gzip, deflate, br\",",
+        "detail": "functions.fetch_data_bulk",
+        "documentation": {}
+    },
+    {
+        "label": "scrapeops_api_key",
+        "kind": 5,
+        "importPath": "functions.fetch_data_bulk",
+        "description": "functions.fetch_data_bulk",
+        "peekOfCode": "scrapeops_api_key = \"\"\nproxy_url = \"https://proxy.scrapeops.io/v1/\"\ndef process_url(url, output_directory):\n    max_retries = 2\n    retry_delay = 15\n    os.makedirs(output_directory, exist_ok=True)\n    # Extract ID from URL\n    #for clinic \n    id_pattern = re.compile(r\"-(\\d+)[a-z]?/\")\n    match = id_pattern.search(url)",
+        "detail": "functions.fetch_data_bulk",
+        "documentation": {}
+    },
+    {
+        "label": "proxy_url",
+        "kind": 5,
+        "importPath": "functions.fetch_data_bulk",
+        "description": "functions.fetch_data_bulk",
+        "peekOfCode": "proxy_url = \"https://proxy.scrapeops.io/v1/\"\ndef process_url(url, output_directory):\n    max_retries = 2\n    retry_delay = 15\n    os.makedirs(output_directory, exist_ok=True)\n    # Extract ID from URL\n    #for clinic \n    id_pattern = re.compile(r\"-(\\d+)[a-z]?/\")\n    match = id_pattern.search(url)\n    provider_id = match.group(1) if match else None",
+        "detail": "functions.fetch_data_bulk",
+        "documentation": {}
+    },
+    {
+        "label": "get_provider",
+        "kind": 2,
+        "importPath": "functions.fetch_data_single",
+        "description": "functions.fetch_data_single",
+        "peekOfCode": "def get_provider(url):\n    payload = {}\n    headers = {}\n    response = requests.get(url, headers=headers, data=payload) # or requests.post() based on your api\n    logging.info(f\"status: {response.status_code} for url {url}\")\n    response.raise_for_status()\n    response_data = response.text\n    extracted_data = extract_data(response_data)\n    return extracted_data\ndef extract_data(html_content):",
+        "detail": "functions.fetch_data_single",
+        "documentation": {}
+    },
+    {
+        "label": "extract_data",
+        "kind": 2,
+        "importPath": "functions.fetch_data_single",
+        "description": "functions.fetch_data_single",
+        "peekOfCode": "def extract_data(html_content):\n    soup = BeautifulSoup(html_content, 'html.parser')\n    script_tag = soup.find('script', string=re.compile(r'window\\[\\'__PAGE_CONTEXT_QUERY_STATE__\\'\\]'))\n    json_data = re.finditer(r'window\\[\\'__PAGE_CONTEXT_QUERY_STATE__\\'\\] = {(.*?)};', script_tag.text)\n    for match in json_data:\n        data = match.group(1)\n        data = \"{\" + data + \"}\"\n        data = json.loads(data.replace('undefined','null'))\n        data = data[\"src\\u002Fcontainers\\u002Fpages\\u002Fhealth\\u002Fdoctors\\u002Fprofile\\u002Fprofile.js\"][\"data\"][\"context\"][\"doctor\"]\n        return data",
+        "detail": "functions.fetch_data_single",
+        "documentation": {}
+    },
+    {
+        "label": "JSONFormatter",
+        "kind": 6,
+        "importPath": "functions.mpc_formatter-clinic",
+        "description": "functions.mpc_formatter-clinic",
+        "peekOfCode": "class JSONFormatter:\n    def __init__(\n        self, output_dir, raw_data_dir=\"raw_data\", formatted_dir=\"formatted\", threads=10\n    ):\n        self.output_dir = output_dir\n        self.raw_data_dir = os.path.join(output_dir, raw_data_dir)\n        self.formatted_dir = os.path.join(output_dir, formatted_dir)\n        self.errors_dir = os.path.join(output_dir, \"Error_Formatting\")\n        self.log_file = os.path.join(output_dir, \"formatting.log\")\n        self.threads = threads",
+        "detail": "functions.mpc_formatter-clinic",
+        "documentation": {}
+    },
+    {
+        "label": "JSONFormatter",
+        "kind": 6,
+        "importPath": "functions.mpc_formatter",
+        "description": "functions.mpc_formatter",
+        "peekOfCode": "class JSONFormatter:\n    def __init__(\n        self, output_dir, raw_data_dir=\"raw_data\", formatted_dir=\"formatted\", threads=10\n    ):\n        self.output_dir = output_dir\n        self.raw_data_dir = os.path.join(output_dir, raw_data_dir)\n        self.formatted_dir = os.path.join(output_dir, formatted_dir)\n        self.errors_dir = os.path.join(output_dir, \"Error_Formatting\")\n        self.log_file = os.path.join(output_dir, \"formatting.log\")\n        self.threads = threads",
+        "detail": "functions.mpc_formatter",
+        "documentation": {}
+    },
+    {
+        "label": "SitemapFetcher",
+        "kind": 6,
+        "importPath": "functions.search",
+        "description": "functions.search",
+        "peekOfCode": "class SitemapFetcher:\n    def __init__(self, sitemap_types, output_dir=\"output\", max_retries=3):\n        self.sitemap_types = sitemap_types\n        self.base_url = \"https://www.opencare.com\"\n        self.output_dir = output_dir\n        self.progress_file = os.path.join(output_dir, \"progress.json\")\n        self.max_retries = max_retries\n        self.progress = self._load_progress()\n        self.log_file = os.path.join(output_dir, \"sitemap_fetcher.log\")\n        # Set output file name based on type selection",
+        "detail": "functions.search",
+        "documentation": {}
+    },
+    {
+        "label": "setup_logging",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def setup_logging(base_folder):\n    global error_logger, success_logger\n    logs_folder = os.path.join(base_folder, \"logs\")\n    os.makedirs(logs_folder, exist_ok=True)\n    success_log_path = os.path.join(logs_folder, \"success.log\")\n    error_log_path = os.path.join(logs_folder, \"fail.log\")\n    # Error Logger\n    error_logger = logging.getLogger(\"error_logger\")\n    error_logger.handlers.clear()\n    error_handler = logging.FileHandler(error_log_path)",
+        "detail": "main",
+        "documentation": {}
+    }
+]

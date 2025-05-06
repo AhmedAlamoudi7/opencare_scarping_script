@@ -1,0 +1,5 @@
+2025-04-30 13:17:24,010 - INFO - Fetching doctor sitemaps...
+2025-04-30 13:17:27,342 - INFO - Fetching URLs from: https://www.opencare.com/oc-sitemap-doctor-0.xml
+2025-04-30 13:17:28,508 - INFO - Fetching URLs from: https://www.opencare.com/oc-sitemap-doctor-1.xml
+2025-04-30 13:17:29,102 - INFO - No more sitemaps found for doctor at index 2. Stopping.
+2025-04-30 13:17:29,140 - INFO - Total 33157 URLs saved to output\providers_urls.txt
