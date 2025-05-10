@@ -207,12 +207,19 @@ class JSONFormatter:
                 clinic = provider.get("clinic", {})
                 if not clinic:
                     continue
-
+                def format_phone_number(phone: str) -> str:
+                    if phone and phone.startswith("+1") and len(phone) == 12:
+                        area_code = phone[2:5]
+                        first_part = phone[5:8]
+                        second_part = phone[8:]
+                        return f"({area_code}) {first_part}-{second_part}"
+                    return phone  # return as-is if null, empty, or invalid format
+       
                 address = clinic.get("address", {}) or {}
                 fax = clinic.get("fax", "")
                 name = clinic.get("name", "").strip()
                 phone = clinic.get("phone", "")
-                forward_phone = clinic.get("forwardPhone", "")
+                formatted_phone = format_phone_number(phone)
                 website = clinic.get("website", "")
                 latitude = clinic.get("latitude", "")
                 longitude = clinic.get("longitude", "")
@@ -235,13 +242,10 @@ class JSONFormatter:
                 location = {
                     "phone_numbers": {
                         "location_phone": {
-                            "number": phone,
+                            "number": formatted_phone,
                             "visible_in_frontend": True,
-                        },
-                        "spnosor_phone": {
-                            "number": forward_phone,
-                            "visible_in_frontend": False,
-                        },
+                        }
+                      
                     },
                     "fax": fax,
                     "name": name,
@@ -274,6 +278,22 @@ class JSONFormatter:
                 locations.append(location)
 
             return locations
+        def extract_services_info(data):
+            providers = data.get("providers", [])
+            services = []
+
+            for provider in providers:
+                offered_services = provider.get("offeredServices", [])
+                for item in offered_services:
+                    service = item.get("service")
+                    if service and isinstance(service, dict):
+                        name = service.get("name")
+                        if name:
+                            # Remove forward slashes and strip whitespace
+                            cleaned_name = name.replace("/", "").strip()
+                            services.append(cleaned_name)
+
+            return services          
         def extract_claimed_at_info(data):
             providers = data.get("providers", [])
 
@@ -343,6 +363,20 @@ class JSONFormatter:
         images = extract_images(input)
         awards = extract_awards_info(input)
         payments = extract_payment_methods(input)
+        services = extract_services_info(input)
+        def clean_data(value):
+            """Recursively remove keys with empty, null, or default-empty values."""
+            if isinstance(value, dict):
+                cleaned = {
+                    k: clean_data(v) for k, v in value.items()
+                    if v not in [None, "", [], {}, ["", ""], {"": ""},0]
+                    and not (isinstance(v, (list, dict)) and clean_data(v) in [[], {}])
+                }
+                return cleaned
+            elif isinstance(value, list):
+                cleaned_list = [clean_data(v) for v in value if v not in [None, "", {}, []]]
+                return [item for item in cleaned_list if item not in [None, "", {}, [], [""]]]
+            return value
         """Formats the input JSON into the desired structure."""
         formatted = {
             "version": "1.0.1",
@@ -361,6 +395,7 @@ class JSONFormatter:
             "languages": [d['name'] for d in extract_languages_info(input)] or [],  # Flatten the languages list,
             "locations":  locations,            
             "education": education_data_info,
+            "offerdservices":services,
             "issues_treated_and_procedures_performed": {
                 "issues_treated": ["", ""],
                 "procedures_performed": ["", ""],
@@ -390,14 +425,15 @@ class JSONFormatter:
             "professional_memberships": ["", ""],
             "payment_descriptions": payments,
         }
-        # Inject rating info into formatted
-         # Log missing or invalid fields
-        if formatted["name"] == "Unknown Name":
-            logging.warning(f"Missing or invalid 'approvedFullName' in input: {input}")
-        if formatted["npi"] == "Unknown NPI":
-            logging.warning(f"Missing or invalid 'npi' in input: {input}")
+        # Remove keys with empty values
+        formatted_cleaned = clean_data(formatted)
 
-        return formatted
+        # Log missing or invalid fields
+        if formatted_cleaned["name"] == "Unknown Name":
+            logging.warning(f"Missing or invalid 'approvedFullName' in input: {input}")
+        if not formatted_cleaned.get("npi") or formatted_cleaned.get("npi") == "Unknown NPI":
+            logging.warning(f"Missing or invalid 'npi' in input: {input}")
+        return formatted_cleaned
 
     def process_file(self, file, progress_bar):
         """Formats a single JSON file and saves the result."""

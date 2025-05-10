@@ -1,0 +1,3180 @@
+[
+    {
+        "id": 24631324420,
+        "name": "Dr. Justin Koen",
+        "about": "Originally from Amarillo, Texas, Dr. Koen received his DMD from Tufts University School of Dental Medicine in Boston, Massachusetts. After practicing for many years in New England, he and his wife moved back to Texas to be closer to family. Dr. Koen, his wife Sara, and their daughter Willa could not be happier to call Austin, Texas, home. After meeting Dr. Carol Evans, Dr. Koen chose to practice here at Main St Dental because of a shared belief in providing state-of-the-art, relationship-based, comprehensive care tailored to fit into the lives and budgets of his patients.\n\nDr. Koen is a member of the American Dental Association, the Academy of General Dentistry, the Texas Dental Association, and the Capital Area District Dental Society. Committed to providing the best care possible for his patients, Dr. Koen completes over forty hours of continuing education per year, has taken postdoctoral courses in prosthodontics, endodontics, and oral surgery, and is a member of the Seattle Study Club. He is available by cell phone in case of emergency.",
+        "email": null,
+        "emailVerified": "2025-05-06 15:29:03.42+00",
+        "primaryPhoto": {
+            "name": "doctor-primary_8e0d6d44-32ea-4a47-84da-8a822b7b823a",
+            "extension": "jpeg",
+            "verified": false
+        },
+        "deletedAt": null,
+        "createdAt": "2025-04-29 20:02:56.661+00",
+        "updatedAt": "2025-05-06 15:29:08.336+00",
+        "photos": [],
+        "gender": "M",
+        "metadata": {
+            "certificates": [
+                {
+                    "name": "Texas State Board of Dental Examiners",
+                    "date": "2008-06-03",
+                    "registrationNumber": "23961"
+                }
+            ],
+            "education": [
+                {
+                    "degree": "DMD",
+                    "institution": "Tufts",
+                    "year": 2008
+                }
+            ]
+        },
+        "deletedBy": null,
+        "claimedAt": "2025-04-29 20:03:19.8+00",
+        "approvedAt": null,
+        "assignedTo": null,
+        "canonicalPath": "/dentists/buda-tx/dr-justin-koen-24631324420d/",
+        "npi": 1679651194,
+        "huckleberryData": {},
+        "lastSyncedAt": null,
+        "aggregateReviewData": null,
+        "seoData": {
+            "noindex": false
+        },
+        "externalReviewData": {},
+        "reviews": [],
+        "externalReviews": [],
+        "specialties": [
+            {
+                "id": 525,
+                "name": "Dentist",
+                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                "adjective": "General Dentistry",
+                "field": "Dentistry",
+                "namePlural": "Dentists",
+                "slug": "dentist",
+                "slugPlural": "dentists",
+                "deletedAt": null,
+                "fieldLowercase": "dentistry",
+                "nameLowercase": "dentist",
+                "nameLowercasePlural": "dentists",
+                "nameShort": "Dentist",
+                "nameShortLowercase": "dentist",
+                "nameShortPlural": "Dentists",
+                "nameShortLowercasePlural": "dentists",
+                "nameAbbreviated": null,
+                "nameAbbreviatedPlural": null,
+                "parentSpecialty": null,
+                "nameAlt": "General Dentist",
+                "nameAltPlural": "General Dentists"
+            }
+        ],
+        "languages": [
+            {
+                "id": 1,
+                "name": "English",
+                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                "updatedAt": "2017-06-16T11:41:29.628986+00:00"
+            }
+        ],
+        "potentialAppointmentTypes": [
+            {
+                "id": 4133,
+                "name": "Dental Consultation",
+                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                "specialty": 525,
+                "defaultDuration": 45,
+                "deletedAt": null
+            },
+            {
+                "id": 7,
+                "name": "Dental Emergency",
+                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                "specialty": 525,
+                "defaultDuration": 45,
+                "deletedAt": null
+            },
+            {
+                "id": 1,
+                "name": "Initial Visit",
+                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                "specialty": 525,
+                "defaultDuration": 60,
+                "deletedAt": null
+            }
+        ],
+        "potentialServices": [
+            {
+                "id": 1,
+                "name": "Veneers",
+                "specialty": 525,
+                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                "updatedAt": "2017-06-16T11:41:29.628986+00:00"
+            },
+            {
+                "id": 2,
+                "name": "Bonding",
+                "specialty": 525,
+                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                "updatedAt": "2017-06-16T11:41:29.628986+00:00"
+            },
+            {
+                "id": 3,
+                "name": "Braces / Invisalign",
+                "specialty": 525,
+                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                "updatedAt": "2022-02-09T18:53:36.509011+00:00"
+            },
+            {
+                "id": 4,
+                "name": "Wisdom Teeth Removal",
+                "specialty": 525,
+                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                "updatedAt": "2017-06-16T11:41:29.628986+00:00"
+            },
+            {
+                "id": 5,
+                "name": "Bridges / Dentures",
+                "specialty": 525,
+                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                "updatedAt": "2017-06-16T11:41:29.628986+00:00"
+            },
+            {
+                "id": 6,
+                "name": "Nitrous Sedation",
+                "specialty": 525,
+                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                "updatedAt": "2017-06-16T11:41:29.628986+00:00"
+            },
+            {
+                "id": 7,
+                "name": "Whitening",
+                "specialty": 525,
+                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                "updatedAt": "2017-06-16T11:41:29.628986+00:00"
+            },
+            {
+                "id": 8,
+                "name": "Implants",
+                "specialty": 525,
+                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                "updatedAt": "2017-06-16T11:41:29.628986+00:00"
+            },
+            {
+                "id": 9,
+                "name": "Crown / Cap",
+                "specialty": 525,
+                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                "updatedAt": "2017-06-16T11:41:29.628986+00:00"
+            },
+            {
+                "id": 10,
+                "name": "Root Canal",
+                "specialty": 525,
+                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                "updatedAt": "2017-06-16T11:41:29.628986+00:00"
+            },
+            {
+                "id": 11,
+                "name": "Tooth Extraction",
+                "specialty": 525,
+                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                "updatedAt": "2017-06-16T11:41:29.628986+00:00"
+            },
+            {
+                "id": 12,
+                "name": "Gum Surgery",
+                "specialty": 525,
+                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                "updatedAt": "2017-06-16T11:41:29.628986+00:00"
+            },
+            {
+                "id": 13,
+                "name": "Sleep apnea",
+                "specialty": 525,
+                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                "updatedAt": "2017-06-16T11:41:29.628986+00:00"
+            },
+            {
+                "id": 14,
+                "name": "TMJ",
+                "specialty": 525,
+                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                "updatedAt": "2017-06-16T11:41:29.628986+00:00"
+            },
+            {
+                "id": 15,
+                "name": "Cleaning",
+                "specialty": 525,
+                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                "updatedAt": "2017-06-16T11:41:29.628986+00:00"
+            },
+            {
+                "id": 16,
+                "name": "Filling",
+                "specialty": 525,
+                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                "updatedAt": "2017-06-16T11:41:29.628986+00:00"
+            }
+        ],
+        "questionResponses": [],
+        "insurancePlans": [
+            {
+                "id": 5147,
+                "name": "Advantage Program",
+                "provider": {
+                    "id": 451,
+                    "name": "Delta Dental",
+                    "createdAt": "2015-06-11T20:34:50.108183+00:00",
+                    "updatedAt": "2015-06-11T20:34:50.108183+00:00",
+                    "type": "DENTAL",
+                    "slug": "delta-dental",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            },
+            {
+                "id": 5311,
+                "name": "Aetna Advantage™ Dental",
+                "provider": {
+                    "id": 455,
+                    "name": "Aetna",
+                    "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                    "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                    "type": "DENTAL",
+                    "slug": "aetna",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            },
+            {
+                "id": 5314,
+                "name": "Aetna HealthFund®/Aetna DentalFund®",
+                "provider": {
+                    "id": 455,
+                    "name": "Aetna",
+                    "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                    "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                    "type": "DENTAL",
+                    "slug": "aetna",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                "updatedAt": "2018-04-19T15:49:41.236+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            },
+            {
+                "id": 5313,
+                "name": "Aetna HealthFund/Aetna DentalFund with PPO II Network",
+                "provider": {
+                    "id": 455,
+                    "name": "Aetna",
+                    "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                    "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                    "type": "DENTAL",
+                    "slug": "aetna",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            },
+            {
+                "id": 5315,
+                "name": "Aetna Individual Advantage(SM) Dental PPO",
+                "provider": {
+                    "id": 455,
+                    "name": "Aetna",
+                    "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                    "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                    "type": "DENTAL",
+                    "slug": "aetna",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            },
+            {
+                "id": 5316,
+                "name": "Aetna Pediatric Dental Plan",
+                "provider": {
+                    "id": 455,
+                    "name": "Aetna",
+                    "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                    "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                    "type": "DENTAL",
+                    "slug": "aetna",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            },
+            {
+                "id": 7227,
+                "name": "AON Hewitt Dental PPO Networks",
+                "provider": {
+                    "id": 631,
+                    "name": "UnitedHealthcare",
+                    "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                    "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                    "type": "DENTAL",
+                    "slug": "unitedhealthcare",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2017-03-28T14:51:29.380406+00:00",
+                "updatedAt": "2017-03-28T14:51:29.427086+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            },
+            {
+                "id": 5318,
+                "name": "Assurant Dental Health Alliance (PPO)",
+                "provider": {
+                    "id": 455,
+                    "name": "Aetna",
+                    "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                    "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                    "type": "DENTAL",
+                    "slug": "aetna",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            },
+            {
+                "id": 6273,
+                "name": "Columbia Dental Plan",
+                "provider": {
+                    "id": 631,
+                    "name": "UnitedHealthcare",
+                    "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                    "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                    "type": "DENTAL",
+                    "slug": "unitedhealthcare",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            },
+            {
+                "id": 6274,
+                "name": "CT Employee PPO Basic Plan",
+                "provider": {
+                    "id": 631,
+                    "name": "UnitedHealthcare",
+                    "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                    "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                    "type": "DENTAL",
+                    "slug": "unitedhealthcare",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            },
+            {
+                "id": 7162,
+                "name": "Delta Dental Family Essential Plan",
+                "provider": {
+                    "id": 451,
+                    "name": "Delta Dental",
+                    "createdAt": "2015-06-11T20:34:50.108183+00:00",
+                    "updatedAt": "2015-06-11T20:34:50.108183+00:00",
+                    "type": "DENTAL",
+                    "slug": "delta-dental",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2017-03-28T14:51:29.380406+00:00",
+                "updatedAt": "2017-03-28T14:51:29.427086+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            },
+            {
+                "id": 7163,
+                "name": "Delta Dental Family Select Plan",
+                "provider": {
+                    "id": 451,
+                    "name": "Delta Dental",
+                    "createdAt": "2015-06-11T20:34:50.108183+00:00",
+                    "updatedAt": "2015-06-11T20:34:50.108183+00:00",
+                    "type": "DENTAL",
+                    "slug": "delta-dental",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2017-03-28T14:51:29.380406+00:00",
+                "updatedAt": "2017-03-28T14:51:29.427086+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            },
+            {
+                "id": 7184,
+                "name": "Delta Dental Individual and Family DPO Basic Plan for Families",
+                "provider": {
+                    "id": 451,
+                    "name": "Delta Dental",
+                    "createdAt": "2015-06-11T20:34:50.108183+00:00",
+                    "updatedAt": "2015-06-11T20:34:50.108183+00:00",
+                    "type": "DENTAL",
+                    "slug": "delta-dental",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2017-03-28T14:51:29.380406+00:00",
+                "updatedAt": "2017-03-28T14:51:29.427086+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            },
+            {
+                "id": 7173,
+                "name": "Delta Dental Individual Basic Plan",
+                "provider": {
+                    "id": 451,
+                    "name": "Delta Dental",
+                    "createdAt": "2015-06-11T20:34:50.108183+00:00",
+                    "updatedAt": "2015-06-11T20:34:50.108183+00:00",
+                    "type": "DENTAL",
+                    "slug": "delta-dental",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2017-03-28T14:51:29.380406+00:00",
+                "updatedAt": "2017-03-28T14:51:29.427086+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            },
+            {
+                "id": 7169,
+                "name": "Delta Dental Individual - Enhanced",
+                "provider": {
+                    "id": 451,
+                    "name": "Delta Dental",
+                    "createdAt": "2015-06-11T20:34:50.108183+00:00",
+                    "updatedAt": "2015-06-11T20:34:50.108183+00:00",
+                    "type": "DENTAL",
+                    "slug": "delta-dental",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2017-03-28T14:51:29.380406+00:00",
+                "updatedAt": "2017-03-28T14:51:29.427086+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            },
+            {
+                "id": 7172,
+                "name": "Delta Dental Individual Kids Basic Plan",
+                "provider": {
+                    "id": 451,
+                    "name": "Delta Dental",
+                    "createdAt": "2015-06-11T20:34:50.108183+00:00",
+                    "updatedAt": "2015-06-11T20:34:50.108183+00:00",
+                    "type": "DENTAL",
+                    "slug": "delta-dental",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2017-03-28T14:51:29.380406+00:00",
+                "updatedAt": "2017-03-28T14:51:29.427086+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            },
+            {
+                "id": 7171,
+                "name": "Delta Dental Individual Preferred Plan",
+                "provider": {
+                    "id": 451,
+                    "name": "Delta Dental",
+                    "createdAt": "2015-06-11T20:34:50.108183+00:00",
+                    "updatedAt": "2015-06-11T20:34:50.108183+00:00",
+                    "type": "DENTAL",
+                    "slug": "delta-dental",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2017-03-28T14:51:29.380406+00:00",
+                "updatedAt": "2017-03-28T14:51:29.427086+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            },
+            {
+                "id": 5150,
+                "name": "Delta Dental Patient Direct",
+                "provider": {
+                    "id": 451,
+                    "name": "Delta Dental",
+                    "createdAt": "2015-06-11T20:34:50.108183+00:00",
+                    "updatedAt": "2015-06-11T20:34:50.108183+00:00",
+                    "type": "DENTAL",
+                    "slug": "delta-dental",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            },
+            {
+                "id": 7166,
+                "name": "Delta Dental Pediatric High Plan",
+                "provider": {
+                    "id": 451,
+                    "name": "Delta Dental",
+                    "createdAt": "2015-06-11T20:34:50.108183+00:00",
+                    "updatedAt": "2015-06-11T20:34:50.108183+00:00",
+                    "type": "DENTAL",
+                    "slug": "delta-dental",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2017-03-28T14:51:29.380406+00:00",
+                "updatedAt": "2017-03-28T14:51:29.427086+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            },
+            {
+                "id": 7165,
+                "name": "Delta Dental Pediatric Low Plan",
+                "provider": {
+                    "id": 451,
+                    "name": "Delta Dental",
+                    "createdAt": "2015-06-11T20:34:50.108183+00:00",
+                    "updatedAt": "2015-06-11T20:34:50.108183+00:00",
+                    "type": "DENTAL",
+                    "slug": "delta-dental",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2017-03-28T14:51:29.380406+00:00",
+                "updatedAt": "2017-03-28T14:51:29.427086+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            },
+            {
+                "id": 7164,
+                "name": "Delta Dental Pediatric Plan",
+                "provider": {
+                    "id": 451,
+                    "name": "Delta Dental",
+                    "createdAt": "2015-06-11T20:34:50.108183+00:00",
+                    "updatedAt": "2015-06-11T20:34:50.108183+00:00",
+                    "type": "DENTAL",
+                    "slug": "delta-dental",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2017-03-28T14:51:29.380406+00:00",
+                "updatedAt": "2017-03-28T14:51:29.427086+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            },
+            {
+                "id": 5145,
+                "name": "Delta Dental PPO",
+                "provider": {
+                    "id": 451,
+                    "name": "Delta Dental",
+                    "createdAt": "2015-06-11T20:34:50.108183+00:00",
+                    "updatedAt": "2015-06-11T20:34:50.108183+00:00",
+                    "type": "DENTAL",
+                    "slug": "delta-dental",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2015-06-11T20:34:50.108183+00:00",
+                "updatedAt": "2015-06-11T20:34:50.108183+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            },
+            {
+                "id": 7183,
+                "name": "Delta Dental PPO Basic Plan for Families",
+                "provider": {
+                    "id": 451,
+                    "name": "Delta Dental",
+                    "createdAt": "2015-06-11T20:34:50.108183+00:00",
+                    "updatedAt": "2015-06-11T20:34:50.108183+00:00",
+                    "type": "DENTAL",
+                    "slug": "delta-dental",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2017-03-28T14:51:29.380406+00:00",
+                "updatedAt": "2017-03-28T14:51:29.427086+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            },
+            {
+                "id": 7182,
+                "name": "Delta Dental PPO Basic Plan for Families for Small Businesses",
+                "provider": {
+                    "id": 451,
+                    "name": "Delta Dental",
+                    "createdAt": "2015-06-11T20:34:50.108183+00:00",
+                    "updatedAt": "2015-06-11T20:34:50.108183+00:00",
+                    "type": "DENTAL",
+                    "slug": "delta-dental",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2017-03-28T14:51:29.380406+00:00",
+                "updatedAt": "2017-03-28T14:51:29.427086+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            },
+            {
+                "id": 7168,
+                "name": "Delta Dental PPO Family High Plan",
+                "provider": {
+                    "id": 451,
+                    "name": "Delta Dental",
+                    "createdAt": "2015-06-11T20:34:50.108183+00:00",
+                    "updatedAt": "2015-06-11T20:34:50.108183+00:00",
+                    "type": "DENTAL",
+                    "slug": "delta-dental",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2017-03-28T14:51:29.380406+00:00",
+                "updatedAt": "2017-03-28T14:51:29.427086+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            },
+            {
+                "id": 7167,
+                "name": "Delta Dental PPO Family Low Plan",
+                "provider": {
+                    "id": 451,
+                    "name": "Delta Dental",
+                    "createdAt": "2015-06-11T20:34:50.108183+00:00",
+                    "updatedAt": "2015-06-11T20:34:50.108183+00:00",
+                    "type": "DENTAL",
+                    "slug": "delta-dental",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2017-03-28T14:51:29.380406+00:00",
+                "updatedAt": "2017-03-28T14:51:29.427086+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            },
+            {
+                "id": 5151,
+                "name": "Delta Dental PPO Plus Premier",
+                "provider": {
+                    "id": 451,
+                    "name": "Delta Dental",
+                    "createdAt": "2015-06-11T20:34:50.108183+00:00",
+                    "updatedAt": "2015-06-11T20:34:50.108183+00:00",
+                    "type": "DENTAL",
+                    "slug": "delta-dental",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            },
+            {
+                "id": 7170,
+                "name": "Delta Dental PPO Plus Premier Individual Choice",
+                "provider": {
+                    "id": 451,
+                    "name": "Delta Dental",
+                    "createdAt": "2015-06-11T20:34:50.108183+00:00",
+                    "updatedAt": "2015-06-11T20:34:50.108183+00:00",
+                    "type": "DENTAL",
+                    "slug": "delta-dental",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2017-03-28T14:51:29.380406+00:00",
+                "updatedAt": "2017-03-28T14:51:29.427086+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            },
+            {
+                "id": 7181,
+                "name": "Delta Dental PPO Preferred Plan for Families",
+                "provider": {
+                    "id": 451,
+                    "name": "Delta Dental",
+                    "createdAt": "2015-06-11T20:34:50.108183+00:00",
+                    "updatedAt": "2015-06-11T20:34:50.108183+00:00",
+                    "type": "DENTAL",
+                    "slug": "delta-dental",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2017-03-28T14:51:29.380406+00:00",
+                "updatedAt": "2017-03-28T14:51:29.427086+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            },
+            {
+                "id": 7180,
+                "name": "Delta Dental PPO Preferred Plan for Families for Small Businesses",
+                "provider": {
+                    "id": 451,
+                    "name": "Delta Dental",
+                    "createdAt": "2015-06-11T20:34:50.108183+00:00",
+                    "updatedAt": "2015-06-11T20:34:50.108183+00:00",
+                    "type": "DENTAL",
+                    "slug": "delta-dental",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2017-03-28T14:51:29.380406+00:00",
+                "updatedAt": "2017-03-28T14:51:29.427086+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            },
+            {
+                "id": 7156,
+                "name": "Delta Dental Premier",
+                "provider": {
+                    "id": 451,
+                    "name": "Delta Dental",
+                    "createdAt": "2015-06-11T20:34:50.108183+00:00",
+                    "updatedAt": "2015-06-11T20:34:50.108183+00:00",
+                    "type": "DENTAL",
+                    "slug": "delta-dental",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2017-03-28T14:51:29.380406+00:00",
+                "updatedAt": "2017-03-28T14:51:29.427086+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            },
+            {
+                "id": 7224,
+                "name": "Dental Benefits Providers",
+                "provider": {
+                    "id": 631,
+                    "name": "UnitedHealthcare",
+                    "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                    "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                    "type": "DENTAL",
+                    "slug": "unitedhealthcare",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2017-03-28T14:51:29.380406+00:00",
+                "updatedAt": "2017-03-28T14:51:29.427086+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            },
+            {
+                "id": 5323,
+                "name": "Dental EPP with PPO II Network",
+                "provider": {
+                    "id": 455,
+                    "name": "Aetna",
+                    "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                    "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                    "type": "DENTAL",
+                    "slug": "aetna",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            },
+            {
+                "id": 6277,
+                "name": "Dental Gateway PPO",
+                "provider": {
+                    "id": 631,
+                    "name": "UnitedHealthcare",
+                    "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                    "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                    "type": "DENTAL",
+                    "slug": "unitedhealthcare",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            },
+            {
+                "id": 5650,
+                "name": "DentalGuard Alliance",
+                "provider": {
+                    "id": 548,
+                    "name": "Guardian",
+                    "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                    "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                    "type": "DENTAL",
+                    "slug": "guardian",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            },
+            {
+                "id": 5651,
+                "name": "DentalGuard Alliance / DentalGuard Preferred",
+                "provider": {
+                    "id": 548,
+                    "name": "Guardian",
+                    "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                    "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                    "type": "DENTAL",
+                    "slug": "guardian",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            },
+            {
+                "id": 5652,
+                "name": "DentalGuard Preferred Select",
+                "provider": {
+                    "id": 548,
+                    "name": "Guardian",
+                    "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                    "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                    "type": "DENTAL",
+                    "slug": "guardian",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            },
+            {
+                "id": 5649,
+                "name": "Dental PPO",
+                "provider": {
+                    "id": 548,
+                    "name": "Guardian",
+                    "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                    "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                    "type": "DENTAL",
+                    "slug": "guardian",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            },
+            {
+                "id": 6279,
+                "name": "Dental PPO",
+                "provider": {
+                    "id": 631,
+                    "name": "UnitedHealthcare",
+                    "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                    "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                    "type": "DENTAL",
+                    "slug": "unitedhealthcare",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            },
+            {
+                "id": 7221,
+                "name": "Dental PPO Consumer MaxMultiplier",
+                "provider": {
+                    "id": 631,
+                    "name": "UnitedHealthcare",
+                    "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                    "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                    "type": "DENTAL",
+                    "slug": "unitedhealthcare",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2017-03-28T14:51:29.380406+00:00",
+                "updatedAt": "2017-03-28T14:51:29.427086+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            },
+            {
+                "id": 7223,
+                "name": "Dental PPO FlexAppeal Enhanced",
+                "provider": {
+                    "id": 631,
+                    "name": "UnitedHealthcare",
+                    "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                    "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                    "type": "DENTAL",
+                    "slug": "unitedhealthcare",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2017-03-28T14:51:29.380406+00:00",
+                "updatedAt": "2017-03-28T14:51:29.427086+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            },
+            {
+                "id": 7222,
+                "name": "Dental PPO FlexAppeal Preventive MaxMultiplier",
+                "provider": {
+                    "id": 631,
+                    "name": "UnitedHealthcare",
+                    "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                    "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                    "type": "DENTAL",
+                    "slug": "unitedhealthcare",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2017-03-28T14:51:29.380406+00:00",
+                "updatedAt": "2017-03-28T14:51:29.427086+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            },
+            {
+                "id": 5325,
+                "name": "Dental PPO/PDN",
+                "provider": {
+                    "id": 455,
+                    "name": "Aetna",
+                    "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                    "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                    "type": "DENTAL",
+                    "slug": "aetna",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            },
+            {
+                "id": 5326,
+                "name": "Dental PPO/PDN with PPO II Network",
+                "provider": {
+                    "id": 455,
+                    "name": "Aetna",
+                    "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                    "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                    "type": "DENTAL",
+                    "slug": "aetna",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            },
+            {
+                "id": 6280,
+                "name": "Dental Premier",
+                "provider": {
+                    "id": 631,
+                    "name": "UnitedHealthcare",
+                    "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                    "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                    "type": "DENTAL",
+                    "slug": "unitedhealthcare",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            },
+            {
+                "id": 6281,
+                "name": "Dental Value",
+                "provider": {
+                    "id": 631,
+                    "name": "UnitedHealthcare",
+                    "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                    "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                    "type": "DENTAL",
+                    "slug": "unitedhealthcare",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            },
+            {
+                "id": 7201,
+                "name": "Guardian Family Advantage",
+                "provider": {
+                    "id": 548,
+                    "name": "Guardian",
+                    "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                    "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                    "type": "DENTAL",
+                    "slug": "guardian",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2017-03-28T14:51:29.380406+00:00",
+                "updatedAt": "2017-03-28T14:51:29.427086+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            },
+            {
+                "id": 7198,
+                "name": "Guardian Family Essentials PPO",
+                "provider": {
+                    "id": 548,
+                    "name": "Guardian",
+                    "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                    "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                    "type": "DENTAL",
+                    "slug": "guardian",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2017-03-28T14:51:29.380406+00:00",
+                "updatedAt": "2017-03-28T14:51:29.427086+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            },
+            {
+                "id": 6301,
+                "name": "Healthplex America 500 Dental Plan",
+                "provider": {
+                    "id": 631,
+                    "name": "UnitedHealthcare",
+                    "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                    "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                    "type": "DENTAL",
+                    "slug": "unitedhealthcare",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            },
+            {
+                "id": 6302,
+                "name": "In Network Only PPO - INO",
+                "provider": {
+                    "id": 631,
+                    "name": "UnitedHealthcare",
+                    "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                    "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                    "type": "DENTAL",
+                    "slug": "unitedhealthcare",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            },
+            {
+                "id": 5156,
+                "name": "MAC (Maximum Allowable Charge) a feature of Delta Dental PPO",
+                "provider": {
+                    "id": 451,
+                    "name": "Delta Dental",
+                    "createdAt": "2015-06-11T20:34:50.108183+00:00",
+                    "updatedAt": "2015-06-11T20:34:50.108183+00:00",
+                    "type": "DENTAL",
+                    "slug": "delta-dental",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            },
+            {
+                "id": 6307,
+                "name": "MD Primary Adult Care",
+                "provider": {
+                    "id": 631,
+                    "name": "UnitedHealthcare",
+                    "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                    "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                    "type": "DENTAL",
+                    "slug": "unitedhealthcare",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            },
+            {
+                "id": 6313,
+                "name": "National Options PPO 10",
+                "provider": {
+                    "id": 631,
+                    "name": "UnitedHealthcare",
+                    "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                    "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                    "type": "DENTAL",
+                    "slug": "unitedhealthcare",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            },
+            {
+                "id": 6314,
+                "name": "National Options PPO 15",
+                "provider": {
+                    "id": 631,
+                    "name": "UnitedHealthcare",
+                    "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                    "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                    "type": "DENTAL",
+                    "slug": "unitedhealthcare",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            },
+            {
+                "id": 6315,
+                "name": "National Options PPO 20",
+                "provider": {
+                    "id": 631,
+                    "name": "UnitedHealthcare",
+                    "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                    "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                    "type": "DENTAL",
+                    "slug": "unitedhealthcare",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            },
+            {
+                "id": 6316,
+                "name": "National Options PPO 30",
+                "provider": {
+                    "id": 631,
+                    "name": "UnitedHealthcare",
+                    "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                    "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                    "type": "DENTAL",
+                    "slug": "unitedhealthcare",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            },
+            {
+                "id": 7229,
+                "name": "Options PPO (Network)",
+                "provider": {
+                    "id": 631,
+                    "name": "UnitedHealthcare",
+                    "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                    "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                    "type": "DENTAL",
+                    "slug": "unitedhealthcare",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2017-03-28T14:51:29.380406+00:00",
+                "updatedAt": "2017-03-28T14:51:29.427086+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            },
+            {
+                "id": 5663,
+                "name": "PPO: DentalGuard Preferred",
+                "provider": {
+                    "id": 548,
+                    "name": "Guardian",
+                    "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                    "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                    "type": "DENTAL",
+                    "slug": "guardian",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            },
+            {
+                "id": 5664,
+                "name": "PPO: DentalGuard Preferred/Premier",
+                "provider": {
+                    "id": 548,
+                    "name": "Guardian",
+                    "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                    "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                    "type": "DENTAL",
+                    "slug": "guardian",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            },
+            {
+                "id": 6329,
+                "name": "PPO National Network",
+                "provider": {
+                    "id": 631,
+                    "name": "UnitedHealthcare",
+                    "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                    "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                    "type": "DENTAL",
+                    "slug": "unitedhealthcare",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            },
+            {
+                "id": 6330,
+                "name": "PPO Network Directly Contracted Providers Only",
+                "provider": {
+                    "id": 631,
+                    "name": "UnitedHealthcare",
+                    "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                    "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                    "type": "DENTAL",
+                    "slug": "unitedhealthcare",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            }
+        ],
+        "providers": [
+            {
+                "id": 4429809690,
+                "clinic": {
+                    "id": 24630733826,
+                    "company": 91193,
+                    "phone": "+15122959925",
+                    "phoneVerified": "2025-04-29T20:03:19.74+00:00",
+                    "name": "Main St. Dental",
+                    "hours": [
+                        {
+                            "start": 0,
+                            "end": 0
+                        },
+                        {
+                            "start": 540,
+                            "end": 1020
+                        },
+                        {
+                            "start": 540,
+                            "end": 1020
+                        },
+                        {
+                            "start": 540,
+                            "end": 1020
+                        },
+                        {
+                            "start": 540,
+                            "end": 1020
+                        },
+                        {
+                            "start": 0,
+                            "end": 0
+                        },
+                        {
+                            "start": 0,
+                            "end": 0
+                        }
+                    ],
+                    "address": {
+                        "street_number": "108",
+                        "route": "South Main Street",
+                        "locality": "Buda",
+                        "administrative_area_level_2": "Hays County",
+                        "administrative_area_level_1": "Texas",
+                        "administrative_area_level_1_short": "TX",
+                        "country": "United States",
+                        "postal_code": "78610",
+                        "postal_code_suffix": "3375",
+                        "customNeighborhood": ""
+                    },
+                    "latitude": 30.0802541,
+                    "longitude": -97.84420349999999,
+                    "description": "Your smile is more than just an expression. It’s a direct representation of your overall health and well-being. Main St Dental is the dental office families throughout Buda, TX and the surrounding communities trust for exceptional dental treatment. Our skilled and trained team utilizes the latest dental technologies to ensure long-lasting and gorgeous results. We understand that every patient has unique oral healthcare needs, which is why we offer customized treatment options to help maintain and improve your smile.\n\nAt Main St Dental, our goal is to provide the highest quality dental care for patients of every age. Whether you’ve been a member of our dental practice for years or you’ve just scheduled your first appointment, we’re committed to providing compassionate care and customizable treatment options. Our team undergoes continual training and education to stay up to date with the latest dental technology and techniques. As a local dental office, we believe in giving back to our community. We support numerous local organizations, including Miles for Smiles, Hays Project Graduation, and many more.",
+                    "website": "https://www.mainstdental.com/",
+                    "email": "marketing@stardentalpartners.com",
+                    "emailVerified": "2025-05-01T00:16:57.081+00:00",
+                    "primaryPhoto": {
+                        "name": "clinic-primary_a2c62ee4-3ef8-4369-ac20-32c630c685ed",
+                        "extension": "jpeg",
+                        "verified": false
+                    },
+                    "photos": [
+                        {
+                            "name": "clinic-photos_ac8932d2-7d5e-485f-bfcc-937a28530e5e",
+                            "extension": "jpeg",
+                            "description": null,
+                            "verified": false
+                        },
+                        {
+                            "name": "clinic-photos_2aa270ed-3630-427e-be43-9dac660bb53d",
+                            "extension": "jpeg",
+                            "description": null,
+                            "verified": false
+                        },
+                        {
+                            "name": "clinic-photos_03e1e434-7d88-4cf8-8c7b-62f55d869a8e",
+                            "extension": "jpeg",
+                            "description": null,
+                            "verified": false
+                        },
+                        {
+                            "name": "clinic-photos_9497a95e-1208-41f0-b0b5-b932d042ce43",
+                            "extension": "jpeg",
+                            "description": null,
+                            "verified": false
+                        },
+                        {
+                            "name": "clinic-photos_00a832e1-e38a-4832-8fe8-ff06dc070861",
+                            "extension": "jpeg",
+                            "description": null,
+                            "verified": false
+                        },
+                        {
+                            "name": "clinic-photos_1f36fd18-34e9-457d-9aca-e1ddea10dbcf",
+                            "extension": "jpeg",
+                            "description": null,
+                            "verified": false
+                        },
+                        {
+                            "name": "clinic-photos_ed96ff69-9acb-481f-9a6f-19912a2cd632",
+                            "extension": "jpeg",
+                            "description": null,
+                            "verified": false
+                        },
+                        {
+                            "name": "clinic-photos_7496e2e3-71be-4907-826f-a10b73c95053",
+                            "extension": "jpeg",
+                            "description": null,
+                            "verified": false
+                        }
+                    ],
+                    "paymentMethods": null,
+                    "deletedAt": null,
+                    "createdAt": "2025-04-29T20:02:56.645+00:00",
+                    "updatedAt": "2025-05-08T19:22:31.923+00:00",
+                    "phoneToken": {
+                        "createdAt": 0,
+                        "attempts": 0,
+                        "token": ""
+                    },
+                    "metadata": {
+                        "appointmentReconfirmationFeature": true,
+                        "appointmentMessageTemplateFeature": true,
+                        "appointmentNprDripFeature": true,
+                        "appointmentDailySummaryFeature": true,
+                        "instantBookOnlyFeature": false,
+                        "clickToCallSettings": {
+                            "showPatientPhone": false,
+                            "showPatientPhoneScheduledOnly": false,
+                            "showPatientPhoneAlways": false
+                        },
+                        "inNetworkOnlyFeature": false,
+                        "isInsuranceOnlyFeature": false,
+                        "cohort": "",
+                        "acceptsDentalInsuranceOnAssignment": true,
+                        "ibSlotsGenerationFeature": true,
+                        "ibSlotsGenerationFeatureEnabledAt": "2025-04-29T20:03:31.290Z",
+                        "practiceManagementSoftware": {
+                            "name": "Dentrix"
+                        },
+                        "originalOnboardingDate": "2025-05-06",
+                        "introEmailSentAt": "2025-04-29T21:17:34.301Z",
+                        "enableOnboardingWizard": true,
+                        "postCovidBulkMessage": {
+                            "bulkMessageSent": false,
+                            "bulkMessageSkip": true,
+                            "showBulkMessageReminder": false
+                        },
+                        "signedDocumentsAt": "2025-05-06T20:28:16.635Z",
+                        "ibSlotsGenerationEnabledAt": "2025-05-06T15:30:00.856Z",
+                        "pick3SlotUsageCount": 2
+                    },
+                    "deletedBy": null,
+                    "fax": null,
+                    "onlineBooking": false,
+                    "claimedAt": "2025-04-29T20:03:19.826+00:00",
+                    "importData": {
+                        "name": "ADMIN",
+                        "date": "2025-04-29"
+                    },
+                    "approvedAt": null,
+                    "assignedTo": null,
+                    "canonicalPath": "/dentists/buda-tx/main-st-dental-24630733826c/",
+                    "primarySpecialty": 525,
+                    "awardData": {},
+                    "huckleberryData": {},
+                    "lastSyncedAt": null,
+                    "aggregateReviewData": {
+                        "dataPoints": 20,
+                        "numSources": 1,
+                        "averageRating": 5,
+                        "hasExternalReviews": true
+                    },
+                    "seoData": {
+                        "noindex": false
+                    },
+                    "externalReviewData": {},
+                    "notificationSettings": {
+                        "confirmation": true,
+                        "reminders": false,
+                        "automatedWelcomeMessageToPatient": true,
+                        "automatedWelcomeMessageToPatientTemplate": "Hi there, thanks for sending an appointment request. We are excited to have you as a patient. We are currently reviewing your request details and will notify you on next steps. If you have any questions, please do not hesitate to send us a message. Thank You!",
+                        "automatedOffHoursMessageToPatient": true,
+                        "automatedOffHoursMessageToPatientTemplate": "Hi there, thanks for sending an appointment request. We are excited to have you as a patient. Our front desk is closed right now but our team will reach out when we open. If you have any questions, please do not hesitate to send us a message. Thank You!"
+                    },
+                    "geom": {
+                        "type": "Point",
+                        "crs": {
+                            "type": "name",
+                            "properties": {
+                                "name": "EPSG:4326"
+                            }
+                        },
+                        "coordinates": [
+                            -97.84420349999999,
+                            30.0802541
+                        ]
+                    },
+                    "forwardPhone": "+17373453138",
+                    "forwardPhones": null,
+                    "officeContact": "Leslie (OM)",
+                    "accountExecutive": 1248989,
+                    "customerEnablementManager": 963738,
+                    "customerSuccessManager": 1468614,
+                    "promoEnabled": null,
+                    "remainingPromoNprs": null,
+                    "nprCapacity": null,
+                    "isSuperPractice": null,
+                    "ivEnabled": false,
+                    "covidSafetyProceduresMap": {
+                        "closedDoor": false,
+                        "additionalPPE": false,
+                        "temperatureCheck": false,
+                        "telehealthOptions": false,
+                        "appointmentSpacing": false,
+                        "prePayAppointments": false,
+                        "patientPreScreening": false,
+                        "airPurificationSystems": false,
+                        "hospitalGradeDisinfectant": false,
+                        "plexiglassAtReceptionArea": false,
+                        "additionalSanitizationStations": false
+                    },
+                    "claimsEnabled": false,
+                    "ivEnabledAt": null,
+                    "ivChurnAt": null,
+                    "claimsEnabledAt": null,
+                    "claimsChurnAt": null,
+                    "instantBookConfiguration": {},
+                    "syncEnabled": null,
+                    "premiumIvEnabled": false,
+                    "premiumIvEnabledAt": null,
+                    "premiumIvChurnAt": null,
+                    "billingAddress": null,
+                    "noMatchInsuranceProviders": [],
+                    "noMatchUninsuredPatients": false,
+                    "videoIds": [],
+                    "feature_flags": [],
+                    "currentStatus": "LIVE"
+                },
+                "doctor": 24631324420,
+                "deletedAt": null,
+                "createdAt": "2025-04-29T20:02:56.676+00:00",
+                "updatedAt": "2025-05-06T15:30:00.846+00:00",
+                "hours": [
+                    {
+                        "start": 0,
+                        "end": 0
+                    },
+                    {
+                        "start": 540,
+                        "end": 1020
+                    },
+                    {
+                        "start": 540,
+                        "end": 1020
+                    },
+                    {
+                        "start": 540,
+                        "end": 1020
+                    },
+                    {
+                        "start": 540,
+                        "end": 1020
+                    },
+                    {
+                        "start": 0,
+                        "end": 0
+                    },
+                    {
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "relationshipConfirmed": true,
+                "availability": {
+                    "daysInAdvanceFullyBooked": 0,
+                    "periodScores": [
+                        [
+                            1,
+                            1,
+                            1,
+                            1,
+                            1,
+                            1
+                        ],
+                        [
+                            1,
+                            1,
+                            1,
+                            1,
+                            1,
+                            1
+                        ],
+                        [
+                            1,
+                            1,
+                            1,
+                            1,
+                            1,
+                            1
+                        ],
+                        [
+                            1,
+                            1,
+                            1,
+                            1,
+                            1,
+                            1
+                        ],
+                        [
+                            1,
+                            1,
+                            1,
+                            1,
+                            1,
+                            1
+                        ],
+                        [
+                            1,
+                            1,
+                            1,
+                            1,
+                            1,
+                            1
+                        ],
+                        [
+                            1,
+                            1,
+                            1,
+                            1,
+                            1,
+                            1
+                        ]
+                    ]
+                },
+                "onlineBooking": true,
+                "unavailableBetween": null,
+                "phone": null,
+                "isPrimary": false,
+                "suite": null,
+                "primeEligible": false,
+                "reservedSlotBooking": true,
+                "metadata": {
+                    "ibSlotsGenerationEnabledAt": "2025-05-06T15:30:00.845Z"
+                },
+                "daysNoticeForAppointment": 0,
+                "onlineBookingAutoEnableDate": null,
+                "onlineBookingRemindDate": null,
+                "offeredAppointmentTypes": [
+                    {
+                        "id": 3953317,
+                        "provider": 4429809690,
+                        "appointmentType": {
+                            "id": 4133,
+                            "name": "Dental Consultation",
+                            "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                            "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                            "specialty": {
+                                "id": 525,
+                                "name": "Dentist",
+                                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                                "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                                "adjective": "General Dentistry",
+                                "field": "Dentistry",
+                                "namePlural": "Dentists",
+                                "slug": "dentist",
+                                "slugPlural": "dentists",
+                                "deletedAt": null,
+                                "fieldLowercase": "dentistry",
+                                "nameLowercase": "dentist",
+                                "nameLowercasePlural": "dentists",
+                                "nameShort": "Dentist",
+                                "nameShortLowercase": "dentist",
+                                "nameShortPlural": "Dentists",
+                                "nameShortLowercasePlural": "dentists",
+                                "nameAbbreviated": null,
+                                "nameAbbreviatedPlural": null,
+                                "parentSpecialty": null,
+                                "nameAlt": "General Dentist",
+                                "nameAltPlural": "General Dentists"
+                            },
+                            "defaultDuration": 45,
+                            "deletedAt": null
+                        },
+                        "price": null,
+                        "duration": 45,
+                        "deletedAt": null,
+                        "createdAt": "2025-04-29T20:03:19.816+00:00",
+                        "updatedAt": "2025-04-29T20:03:19.816+00:00",
+                        "sendReminderEmails": true
+                    },
+                    {
+                        "id": 3953318,
+                        "provider": 4429809690,
+                        "appointmentType": {
+                            "id": 909,
+                            "name": "Dentures Consultation",
+                            "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                            "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                            "specialty": {
+                                "id": 525,
+                                "name": "Dentist",
+                                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                                "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                                "adjective": "General Dentistry",
+                                "field": "Dentistry",
+                                "namePlural": "Dentists",
+                                "slug": "dentist",
+                                "slugPlural": "dentists",
+                                "deletedAt": null,
+                                "fieldLowercase": "dentistry",
+                                "nameLowercase": "dentist",
+                                "nameLowercasePlural": "dentists",
+                                "nameShort": "Dentist",
+                                "nameShortLowercase": "dentist",
+                                "nameShortPlural": "Dentists",
+                                "nameShortLowercasePlural": "dentists",
+                                "nameAbbreviated": null,
+                                "nameAbbreviatedPlural": null,
+                                "parentSpecialty": null,
+                                "nameAlt": "General Dentist",
+                                "nameAltPlural": "General Dentists"
+                            },
+                            "defaultDuration": 30,
+                            "deletedAt": "2016-06-10T00:46:41.120685+00:00"
+                        },
+                        "price": null,
+                        "duration": 30,
+                        "deletedAt": null,
+                        "createdAt": "2025-04-29T20:03:19.816+00:00",
+                        "updatedAt": "2025-04-29T20:03:19.816+00:00",
+                        "sendReminderEmails": true
+                    },
+                    {
+                        "id": 3953319,
+                        "provider": 4429809690,
+                        "appointmentType": {
+                            "id": 5,
+                            "name": "Dental Cleaning",
+                            "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                            "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                            "specialty": {
+                                "id": 525,
+                                "name": "Dentist",
+                                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                                "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                                "adjective": "General Dentistry",
+                                "field": "Dentistry",
+                                "namePlural": "Dentists",
+                                "slug": "dentist",
+                                "slugPlural": "dentists",
+                                "deletedAt": null,
+                                "fieldLowercase": "dentistry",
+                                "nameLowercase": "dentist",
+                                "nameLowercasePlural": "dentists",
+                                "nameShort": "Dentist",
+                                "nameShortLowercase": "dentist",
+                                "nameShortPlural": "Dentists",
+                                "nameShortLowercasePlural": "dentists",
+                                "nameAbbreviated": null,
+                                "nameAbbreviatedPlural": null,
+                                "parentSpecialty": null,
+                                "nameAlt": "General Dentist",
+                                "nameAltPlural": "General Dentists"
+                            },
+                            "defaultDuration": 45,
+                            "deletedAt": "2016-06-10T00:46:41.120685+00:00"
+                        },
+                        "price": null,
+                        "duration": 45,
+                        "deletedAt": null,
+                        "createdAt": "2025-04-29T20:03:19.816+00:00",
+                        "updatedAt": "2025-04-29T20:03:19.816+00:00",
+                        "sendReminderEmails": true
+                    },
+                    {
+                        "id": 3953320,
+                        "provider": 4429809690,
+                        "appointmentType": {
+                            "id": 12,
+                            "name": "Implant",
+                            "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                            "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                            "specialty": {
+                                "id": 525,
+                                "name": "Dentist",
+                                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                                "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                                "adjective": "General Dentistry",
+                                "field": "Dentistry",
+                                "namePlural": "Dentists",
+                                "slug": "dentist",
+                                "slugPlural": "dentists",
+                                "deletedAt": null,
+                                "fieldLowercase": "dentistry",
+                                "nameLowercase": "dentist",
+                                "nameLowercasePlural": "dentists",
+                                "nameShort": "Dentist",
+                                "nameShortLowercase": "dentist",
+                                "nameShortPlural": "Dentists",
+                                "nameShortLowercasePlural": "dentists",
+                                "nameAbbreviated": null,
+                                "nameAbbreviatedPlural": null,
+                                "parentSpecialty": null,
+                                "nameAlt": "General Dentist",
+                                "nameAltPlural": "General Dentists"
+                            },
+                            "defaultDuration": 45,
+                            "deletedAt": "2016-06-10T00:46:41.120685+00:00"
+                        },
+                        "price": null,
+                        "duration": 45,
+                        "deletedAt": null,
+                        "createdAt": "2025-04-29T20:03:19.816+00:00",
+                        "updatedAt": "2025-04-29T20:03:19.816+00:00",
+                        "sendReminderEmails": true
+                    },
+                    {
+                        "id": 3953321,
+                        "provider": 4429809690,
+                        "appointmentType": {
+                            "id": 4,
+                            "name": "Crown",
+                            "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                            "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                            "specialty": {
+                                "id": 525,
+                                "name": "Dentist",
+                                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                                "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                                "adjective": "General Dentistry",
+                                "field": "Dentistry",
+                                "namePlural": "Dentists",
+                                "slug": "dentist",
+                                "slugPlural": "dentists",
+                                "deletedAt": null,
+                                "fieldLowercase": "dentistry",
+                                "nameLowercase": "dentist",
+                                "nameLowercasePlural": "dentists",
+                                "nameShort": "Dentist",
+                                "nameShortLowercase": "dentist",
+                                "nameShortPlural": "Dentists",
+                                "nameShortLowercasePlural": "dentists",
+                                "nameAbbreviated": null,
+                                "nameAbbreviatedPlural": null,
+                                "parentSpecialty": null,
+                                "nameAlt": "General Dentist",
+                                "nameAltPlural": "General Dentists"
+                            },
+                            "defaultDuration": 45,
+                            "deletedAt": "2016-06-10T00:46:41.120685+00:00"
+                        },
+                        "price": null,
+                        "duration": 45,
+                        "deletedAt": null,
+                        "createdAt": "2025-04-29T20:03:19.816+00:00",
+                        "updatedAt": "2025-04-29T20:03:19.816+00:00",
+                        "sendReminderEmails": true
+                    },
+                    {
+                        "id": 3953322,
+                        "provider": 4429809690,
+                        "appointmentType": {
+                            "id": 4083,
+                            "name": "Bridge",
+                            "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                            "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                            "specialty": {
+                                "id": 525,
+                                "name": "Dentist",
+                                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                                "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                                "adjective": "General Dentistry",
+                                "field": "Dentistry",
+                                "namePlural": "Dentists",
+                                "slug": "dentist",
+                                "slugPlural": "dentists",
+                                "deletedAt": null,
+                                "fieldLowercase": "dentistry",
+                                "nameLowercase": "dentist",
+                                "nameLowercasePlural": "dentists",
+                                "nameShort": "Dentist",
+                                "nameShortLowercase": "dentist",
+                                "nameShortPlural": "Dentists",
+                                "nameShortLowercasePlural": "dentists",
+                                "nameAbbreviated": null,
+                                "nameAbbreviatedPlural": null,
+                                "parentSpecialty": null,
+                                "nameAlt": "General Dentist",
+                                "nameAltPlural": "General Dentists"
+                            },
+                            "defaultDuration": 60,
+                            "deletedAt": "2016-06-10T00:46:41.120685+00:00"
+                        },
+                        "price": null,
+                        "duration": 60,
+                        "deletedAt": null,
+                        "createdAt": "2025-04-29T20:03:19.816+00:00",
+                        "updatedAt": "2025-04-29T20:03:19.816+00:00",
+                        "sendReminderEmails": true
+                    },
+                    {
+                        "id": 3953323,
+                        "provider": 4429809690,
+                        "appointmentType": {
+                            "id": 7,
+                            "name": "Dental Emergency",
+                            "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                            "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                            "specialty": {
+                                "id": 525,
+                                "name": "Dentist",
+                                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                                "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                                "adjective": "General Dentistry",
+                                "field": "Dentistry",
+                                "namePlural": "Dentists",
+                                "slug": "dentist",
+                                "slugPlural": "dentists",
+                                "deletedAt": null,
+                                "fieldLowercase": "dentistry",
+                                "nameLowercase": "dentist",
+                                "nameLowercasePlural": "dentists",
+                                "nameShort": "Dentist",
+                                "nameShortLowercase": "dentist",
+                                "nameShortPlural": "Dentists",
+                                "nameShortLowercasePlural": "dentists",
+                                "nameAbbreviated": null,
+                                "nameAbbreviatedPlural": null,
+                                "parentSpecialty": null,
+                                "nameAlt": "General Dentist",
+                                "nameAltPlural": "General Dentists"
+                            },
+                            "defaultDuration": 45,
+                            "deletedAt": null
+                        },
+                        "price": null,
+                        "duration": 45,
+                        "deletedAt": null,
+                        "createdAt": "2025-04-29T20:03:19.816+00:00",
+                        "updatedAt": "2025-04-29T20:03:19.816+00:00",
+                        "sendReminderEmails": true
+                    },
+                    {
+                        "id": 3953324,
+                        "provider": 4429809690,
+                        "appointmentType": {
+                            "id": 8,
+                            "name": "Dental Follow Up",
+                            "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                            "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                            "specialty": {
+                                "id": 525,
+                                "name": "Dentist",
+                                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                                "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                                "adjective": "General Dentistry",
+                                "field": "Dentistry",
+                                "namePlural": "Dentists",
+                                "slug": "dentist",
+                                "slugPlural": "dentists",
+                                "deletedAt": null,
+                                "fieldLowercase": "dentistry",
+                                "nameLowercase": "dentist",
+                                "nameLowercasePlural": "dentists",
+                                "nameShort": "Dentist",
+                                "nameShortLowercase": "dentist",
+                                "nameShortPlural": "Dentists",
+                                "nameShortLowercasePlural": "dentists",
+                                "nameAbbreviated": null,
+                                "nameAbbreviatedPlural": null,
+                                "parentSpecialty": null,
+                                "nameAlt": "General Dentist",
+                                "nameAltPlural": "General Dentists"
+                            },
+                            "defaultDuration": 45,
+                            "deletedAt": "2016-06-10T00:46:41.120685+00:00"
+                        },
+                        "price": null,
+                        "duration": 45,
+                        "deletedAt": null,
+                        "createdAt": "2025-04-29T20:03:19.816+00:00",
+                        "updatedAt": "2025-04-29T20:03:19.816+00:00",
+                        "sendReminderEmails": true
+                    },
+                    {
+                        "id": 3953325,
+                        "provider": 4429809690,
+                        "appointmentType": {
+                            "id": 9,
+                            "name": "Dentures",
+                            "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                            "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                            "specialty": {
+                                "id": 525,
+                                "name": "Dentist",
+                                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                                "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                                "adjective": "General Dentistry",
+                                "field": "Dentistry",
+                                "namePlural": "Dentists",
+                                "slug": "dentist",
+                                "slugPlural": "dentists",
+                                "deletedAt": null,
+                                "fieldLowercase": "dentistry",
+                                "nameLowercase": "dentist",
+                                "nameLowercasePlural": "dentists",
+                                "nameShort": "Dentist",
+                                "nameShortLowercase": "dentist",
+                                "nameShortPlural": "Dentists",
+                                "nameShortLowercasePlural": "dentists",
+                                "nameAbbreviated": null,
+                                "nameAbbreviatedPlural": null,
+                                "parentSpecialty": null,
+                                "nameAlt": "General Dentist",
+                                "nameAltPlural": "General Dentists"
+                            },
+                            "defaultDuration": 45,
+                            "deletedAt": "2016-06-10T00:46:41.120685+00:00"
+                        },
+                        "price": null,
+                        "duration": 45,
+                        "deletedAt": null,
+                        "createdAt": "2025-04-29T20:03:19.816+00:00",
+                        "updatedAt": "2025-04-29T20:03:19.816+00:00",
+                        "sendReminderEmails": true
+                    },
+                    {
+                        "id": 3953326,
+                        "provider": 4429809690,
+                        "appointmentType": {
+                            "id": 11,
+                            "name": "Gum Surgery",
+                            "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                            "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                            "specialty": {
+                                "id": 525,
+                                "name": "Dentist",
+                                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                                "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                                "adjective": "General Dentistry",
+                                "field": "Dentistry",
+                                "namePlural": "Dentists",
+                                "slug": "dentist",
+                                "slugPlural": "dentists",
+                                "deletedAt": null,
+                                "fieldLowercase": "dentistry",
+                                "nameLowercase": "dentist",
+                                "nameLowercasePlural": "dentists",
+                                "nameShort": "Dentist",
+                                "nameShortLowercase": "dentist",
+                                "nameShortPlural": "Dentists",
+                                "nameShortLowercasePlural": "dentists",
+                                "nameAbbreviated": null,
+                                "nameAbbreviatedPlural": null,
+                                "parentSpecialty": null,
+                                "nameAlt": "General Dentist",
+                                "nameAltPlural": "General Dentists"
+                            },
+                            "defaultDuration": 45,
+                            "deletedAt": "2016-06-10T00:46:41.120685+00:00"
+                        },
+                        "price": null,
+                        "duration": 45,
+                        "deletedAt": null,
+                        "createdAt": "2025-04-29T20:03:19.816+00:00",
+                        "updatedAt": "2025-04-29T20:03:19.816+00:00",
+                        "sendReminderEmails": true
+                    },
+                    {
+                        "id": 3953327,
+                        "provider": 4429809690,
+                        "appointmentType": {
+                            "id": 13,
+                            "name": "Invisalign",
+                            "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                            "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                            "specialty": {
+                                "id": 525,
+                                "name": "Dentist",
+                                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                                "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                                "adjective": "General Dentistry",
+                                "field": "Dentistry",
+                                "namePlural": "Dentists",
+                                "slug": "dentist",
+                                "slugPlural": "dentists",
+                                "deletedAt": null,
+                                "fieldLowercase": "dentistry",
+                                "nameLowercase": "dentist",
+                                "nameLowercasePlural": "dentists",
+                                "nameShort": "Dentist",
+                                "nameShortLowercase": "dentist",
+                                "nameShortPlural": "Dentists",
+                                "nameShortLowercasePlural": "dentists",
+                                "nameAbbreviated": null,
+                                "nameAbbreviatedPlural": null,
+                                "parentSpecialty": null,
+                                "nameAlt": "General Dentist",
+                                "nameAltPlural": "General Dentists"
+                            },
+                            "defaultDuration": 45,
+                            "deletedAt": "2016-06-10T00:46:41.120685+00:00"
+                        },
+                        "price": null,
+                        "duration": 45,
+                        "deletedAt": null,
+                        "createdAt": "2025-04-29T20:03:19.816+00:00",
+                        "updatedAt": "2025-04-29T20:03:19.816+00:00",
+                        "sendReminderEmails": true
+                    },
+                    {
+                        "id": 3953328,
+                        "provider": 4429809690,
+                        "appointmentType": {
+                            "id": 3,
+                            "name": "Braces",
+                            "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                            "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                            "specialty": {
+                                "id": 525,
+                                "name": "Dentist",
+                                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                                "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                                "adjective": "General Dentistry",
+                                "field": "Dentistry",
+                                "namePlural": "Dentists",
+                                "slug": "dentist",
+                                "slugPlural": "dentists",
+                                "deletedAt": null,
+                                "fieldLowercase": "dentistry",
+                                "nameLowercase": "dentist",
+                                "nameLowercasePlural": "dentists",
+                                "nameShort": "Dentist",
+                                "nameShortLowercase": "dentist",
+                                "nameShortPlural": "Dentists",
+                                "nameShortLowercasePlural": "dentists",
+                                "nameAbbreviated": null,
+                                "nameAbbreviatedPlural": null,
+                                "parentSpecialty": null,
+                                "nameAlt": "General Dentist",
+                                "nameAltPlural": "General Dentists"
+                            },
+                            "defaultDuration": 45,
+                            "deletedAt": "2016-06-10T00:46:41.120685+00:00"
+                        },
+                        "price": null,
+                        "duration": 45,
+                        "deletedAt": null,
+                        "createdAt": "2025-04-29T20:03:19.816+00:00",
+                        "updatedAt": "2025-04-29T20:03:19.816+00:00",
+                        "sendReminderEmails": true
+                    },
+                    {
+                        "id": 3953329,
+                        "provider": 4429809690,
+                        "appointmentType": {
+                            "id": 14,
+                            "name": "Retainer Installation",
+                            "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                            "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                            "specialty": {
+                                "id": 525,
+                                "name": "Dentist",
+                                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                                "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                                "adjective": "General Dentistry",
+                                "field": "Dentistry",
+                                "namePlural": "Dentists",
+                                "slug": "dentist",
+                                "slugPlural": "dentists",
+                                "deletedAt": null,
+                                "fieldLowercase": "dentistry",
+                                "nameLowercase": "dentist",
+                                "nameLowercasePlural": "dentists",
+                                "nameShort": "Dentist",
+                                "nameShortLowercase": "dentist",
+                                "nameShortPlural": "Dentists",
+                                "nameShortLowercasePlural": "dentists",
+                                "nameAbbreviated": null,
+                                "nameAbbreviatedPlural": null,
+                                "parentSpecialty": null,
+                                "nameAlt": "General Dentist",
+                                "nameAltPlural": "General Dentists"
+                            },
+                            "defaultDuration": 45,
+                            "deletedAt": "2016-06-10T00:46:41.120685+00:00"
+                        },
+                        "price": null,
+                        "duration": 45,
+                        "deletedAt": null,
+                        "createdAt": "2025-04-29T20:03:19.816+00:00",
+                        "updatedAt": "2025-04-29T20:03:19.816+00:00",
+                        "sendReminderEmails": true
+                    },
+                    {
+                        "id": 3953330,
+                        "provider": 4429809690,
+                        "appointmentType": {
+                            "id": 4001,
+                            "name": "Snap on smile",
+                            "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                            "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                            "specialty": {
+                                "id": 525,
+                                "name": "Dentist",
+                                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                                "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                                "adjective": "General Dentistry",
+                                "field": "Dentistry",
+                                "namePlural": "Dentists",
+                                "slug": "dentist",
+                                "slugPlural": "dentists",
+                                "deletedAt": null,
+                                "fieldLowercase": "dentistry",
+                                "nameLowercase": "dentist",
+                                "nameLowercasePlural": "dentists",
+                                "nameShort": "Dentist",
+                                "nameShortLowercase": "dentist",
+                                "nameShortPlural": "Dentists",
+                                "nameShortLowercasePlural": "dentists",
+                                "nameAbbreviated": null,
+                                "nameAbbreviatedPlural": null,
+                                "parentSpecialty": null,
+                                "nameAlt": "General Dentist",
+                                "nameAltPlural": "General Dentists"
+                            },
+                            "defaultDuration": 60,
+                            "deletedAt": "2016-06-10T00:46:41.120685+00:00"
+                        },
+                        "price": null,
+                        "duration": 60,
+                        "deletedAt": null,
+                        "createdAt": "2025-04-29T20:03:19.816+00:00",
+                        "updatedAt": "2025-04-29T20:03:19.816+00:00",
+                        "sendReminderEmails": true
+                    },
+                    {
+                        "id": 3953331,
+                        "provider": 4429809690,
+                        "appointmentType": {
+                            "id": 16,
+                            "name": "Teeth Whitening",
+                            "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                            "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                            "specialty": {
+                                "id": 525,
+                                "name": "Dentist",
+                                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                                "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                                "adjective": "General Dentistry",
+                                "field": "Dentistry",
+                                "namePlural": "Dentists",
+                                "slug": "dentist",
+                                "slugPlural": "dentists",
+                                "deletedAt": null,
+                                "fieldLowercase": "dentistry",
+                                "nameLowercase": "dentist",
+                                "nameLowercasePlural": "dentists",
+                                "nameShort": "Dentist",
+                                "nameShortLowercase": "dentist",
+                                "nameShortPlural": "Dentists",
+                                "nameShortLowercasePlural": "dentists",
+                                "nameAbbreviated": null,
+                                "nameAbbreviatedPlural": null,
+                                "parentSpecialty": null,
+                                "nameAlt": "General Dentist",
+                                "nameAltPlural": "General Dentists"
+                            },
+                            "defaultDuration": 45,
+                            "deletedAt": "2016-06-10T00:46:41.120685+00:00"
+                        },
+                        "price": null,
+                        "duration": 45,
+                        "deletedAt": null,
+                        "createdAt": "2025-04-29T20:03:19.816+00:00",
+                        "updatedAt": "2025-04-29T20:03:19.816+00:00",
+                        "sendReminderEmails": true
+                    },
+                    {
+                        "id": 3953332,
+                        "provider": 4429809690,
+                        "appointmentType": {
+                            "id": 17,
+                            "name": "Tooth Extraction",
+                            "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                            "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                            "specialty": {
+                                "id": 525,
+                                "name": "Dentist",
+                                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                                "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                                "adjective": "General Dentistry",
+                                "field": "Dentistry",
+                                "namePlural": "Dentists",
+                                "slug": "dentist",
+                                "slugPlural": "dentists",
+                                "deletedAt": null,
+                                "fieldLowercase": "dentistry",
+                                "nameLowercase": "dentist",
+                                "nameLowercasePlural": "dentists",
+                                "nameShort": "Dentist",
+                                "nameShortLowercase": "dentist",
+                                "nameShortPlural": "Dentists",
+                                "nameShortLowercasePlural": "dentists",
+                                "nameAbbreviated": null,
+                                "nameAbbreviatedPlural": null,
+                                "parentSpecialty": null,
+                                "nameAlt": "General Dentist",
+                                "nameAltPlural": "General Dentists"
+                            },
+                            "defaultDuration": 45,
+                            "deletedAt": "2016-06-10T00:46:41.120685+00:00"
+                        },
+                        "price": null,
+                        "duration": 45,
+                        "deletedAt": null,
+                        "createdAt": "2025-04-29T20:03:19.816+00:00",
+                        "updatedAt": "2025-04-29T20:03:19.816+00:00",
+                        "sendReminderEmails": true
+                    },
+                    {
+                        "id": 3953333,
+                        "provider": 4429809690,
+                        "appointmentType": {
+                            "id": 19,
+                            "name": "Wisdom Tooth Problem",
+                            "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                            "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                            "specialty": {
+                                "id": 525,
+                                "name": "Dentist",
+                                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                                "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                                "adjective": "General Dentistry",
+                                "field": "Dentistry",
+                                "namePlural": "Dentists",
+                                "slug": "dentist",
+                                "slugPlural": "dentists",
+                                "deletedAt": null,
+                                "fieldLowercase": "dentistry",
+                                "nameLowercase": "dentist",
+                                "nameLowercasePlural": "dentists",
+                                "nameShort": "Dentist",
+                                "nameShortLowercase": "dentist",
+                                "nameShortPlural": "Dentists",
+                                "nameShortLowercasePlural": "dentists",
+                                "nameAbbreviated": null,
+                                "nameAbbreviatedPlural": null,
+                                "parentSpecialty": null,
+                                "nameAlt": "General Dentist",
+                                "nameAltPlural": "General Dentists"
+                            },
+                            "defaultDuration": 45,
+                            "deletedAt": "2016-06-10T00:46:41.120685+00:00"
+                        },
+                        "price": null,
+                        "duration": 45,
+                        "deletedAt": null,
+                        "createdAt": "2025-04-29T20:03:19.816+00:00",
+                        "updatedAt": "2025-04-29T20:03:19.816+00:00",
+                        "sendReminderEmails": true
+                    },
+                    {
+                        "id": 3953334,
+                        "provider": 4429809690,
+                        "appointmentType": {
+                            "id": 18,
+                            "name": "Veneers",
+                            "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                            "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                            "specialty": {
+                                "id": 525,
+                                "name": "Dentist",
+                                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                                "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                                "adjective": "General Dentistry",
+                                "field": "Dentistry",
+                                "namePlural": "Dentists",
+                                "slug": "dentist",
+                                "slugPlural": "dentists",
+                                "deletedAt": null,
+                                "fieldLowercase": "dentistry",
+                                "nameLowercase": "dentist",
+                                "nameLowercasePlural": "dentists",
+                                "nameShort": "Dentist",
+                                "nameShortLowercase": "dentist",
+                                "nameShortPlural": "Dentists",
+                                "nameShortLowercasePlural": "dentists",
+                                "nameAbbreviated": null,
+                                "nameAbbreviatedPlural": null,
+                                "parentSpecialty": null,
+                                "nameAlt": "General Dentist",
+                                "nameAltPlural": "General Dentists"
+                            },
+                            "defaultDuration": 45,
+                            "deletedAt": "2016-06-10T00:46:41.120685+00:00"
+                        },
+                        "price": null,
+                        "duration": 45,
+                        "deletedAt": null,
+                        "createdAt": "2025-04-29T20:03:19.816+00:00",
+                        "updatedAt": "2025-04-29T20:03:19.816+00:00",
+                        "sendReminderEmails": true
+                    },
+                    {
+                        "id": 3953335,
+                        "provider": 4429809690,
+                        "appointmentType": {
+                            "id": 15,
+                            "name": "Root Canal",
+                            "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                            "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                            "specialty": {
+                                "id": 525,
+                                "name": "Dentist",
+                                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                                "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                                "adjective": "General Dentistry",
+                                "field": "Dentistry",
+                                "namePlural": "Dentists",
+                                "slug": "dentist",
+                                "slugPlural": "dentists",
+                                "deletedAt": null,
+                                "fieldLowercase": "dentistry",
+                                "nameLowercase": "dentist",
+                                "nameLowercasePlural": "dentists",
+                                "nameShort": "Dentist",
+                                "nameShortLowercase": "dentist",
+                                "nameShortPlural": "Dentists",
+                                "nameShortLowercasePlural": "dentists",
+                                "nameAbbreviated": null,
+                                "nameAbbreviatedPlural": null,
+                                "parentSpecialty": null,
+                                "nameAlt": "General Dentist",
+                                "nameAltPlural": "General Dentists"
+                            },
+                            "defaultDuration": 45,
+                            "deletedAt": "2016-06-10T00:46:41.120685+00:00"
+                        },
+                        "price": null,
+                        "duration": 45,
+                        "deletedAt": null,
+                        "createdAt": "2025-04-29T20:03:19.816+00:00",
+                        "updatedAt": "2025-04-29T20:03:19.816+00:00",
+                        "sendReminderEmails": true
+                    },
+                    {
+                        "id": 3953336,
+                        "provider": 4429809690,
+                        "appointmentType": {
+                            "id": 4002,
+                            "name": "Sleep apnea",
+                            "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                            "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                            "specialty": {
+                                "id": 525,
+                                "name": "Dentist",
+                                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                                "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                                "adjective": "General Dentistry",
+                                "field": "Dentistry",
+                                "namePlural": "Dentists",
+                                "slug": "dentist",
+                                "slugPlural": "dentists",
+                                "deletedAt": null,
+                                "fieldLowercase": "dentistry",
+                                "nameLowercase": "dentist",
+                                "nameLowercasePlural": "dentists",
+                                "nameShort": "Dentist",
+                                "nameShortLowercase": "dentist",
+                                "nameShortPlural": "Dentists",
+                                "nameShortLowercasePlural": "dentists",
+                                "nameAbbreviated": null,
+                                "nameAbbreviatedPlural": null,
+                                "parentSpecialty": null,
+                                "nameAlt": "General Dentist",
+                                "nameAltPlural": "General Dentists"
+                            },
+                            "defaultDuration": 60,
+                            "deletedAt": "2016-06-10T00:46:41.120685+00:00"
+                        },
+                        "price": null,
+                        "duration": 60,
+                        "deletedAt": null,
+                        "createdAt": "2025-04-29T20:03:19.816+00:00",
+                        "updatedAt": "2025-04-29T20:03:19.816+00:00",
+                        "sendReminderEmails": true
+                    },
+                    {
+                        "id": 3953337,
+                        "provider": 4429809690,
+                        "appointmentType": {
+                            "id": 2,
+                            "name": "Follow Up Visit",
+                            "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                            "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                            "specialty": {
+                                "id": 525,
+                                "name": "Dentist",
+                                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                                "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                                "adjective": "General Dentistry",
+                                "field": "Dentistry",
+                                "namePlural": "Dentists",
+                                "slug": "dentist",
+                                "slugPlural": "dentists",
+                                "deletedAt": null,
+                                "fieldLowercase": "dentistry",
+                                "nameLowercase": "dentist",
+                                "nameLowercasePlural": "dentists",
+                                "nameShort": "Dentist",
+                                "nameShortLowercase": "dentist",
+                                "nameShortPlural": "Dentists",
+                                "nameShortLowercasePlural": "dentists",
+                                "nameAbbreviated": null,
+                                "nameAbbreviatedPlural": null,
+                                "parentSpecialty": null,
+                                "nameAlt": "General Dentist",
+                                "nameAltPlural": "General Dentists"
+                            },
+                            "defaultDuration": 45,
+                            "deletedAt": "2016-06-10T00:46:41.120685+00:00"
+                        },
+                        "price": null,
+                        "duration": 45,
+                        "deletedAt": null,
+                        "createdAt": "2025-04-29T20:03:19.816+00:00",
+                        "updatedAt": "2025-04-29T20:03:19.816+00:00",
+                        "sendReminderEmails": true
+                    },
+                    {
+                        "id": 3953338,
+                        "provider": 4429809690,
+                        "appointmentType": {
+                            "id": 10,
+                            "name": "Filling",
+                            "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                            "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                            "specialty": {
+                                "id": 525,
+                                "name": "Dentist",
+                                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                                "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                                "adjective": "General Dentistry",
+                                "field": "Dentistry",
+                                "namePlural": "Dentists",
+                                "slug": "dentist",
+                                "slugPlural": "dentists",
+                                "deletedAt": null,
+                                "fieldLowercase": "dentistry",
+                                "nameLowercase": "dentist",
+                                "nameLowercasePlural": "dentists",
+                                "nameShort": "Dentist",
+                                "nameShortLowercase": "dentist",
+                                "nameShortPlural": "Dentists",
+                                "nameShortLowercasePlural": "dentists",
+                                "nameAbbreviated": null,
+                                "nameAbbreviatedPlural": null,
+                                "parentSpecialty": null,
+                                "nameAlt": "General Dentist",
+                                "nameAltPlural": "General Dentists"
+                            },
+                            "defaultDuration": 45,
+                            "deletedAt": "2016-06-10T00:46:41.120685+00:00"
+                        },
+                        "price": null,
+                        "duration": 45,
+                        "deletedAt": null,
+                        "createdAt": "2025-04-29T20:03:19.816+00:00",
+                        "updatedAt": "2025-04-29T20:03:19.816+00:00",
+                        "sendReminderEmails": true
+                    },
+                    {
+                        "id": 3953339,
+                        "provider": 4429809690,
+                        "appointmentType": {
+                            "id": 1,
+                            "name": "Initial Visit",
+                            "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                            "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                            "specialty": {
+                                "id": 525,
+                                "name": "Dentist",
+                                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                                "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                                "adjective": "General Dentistry",
+                                "field": "Dentistry",
+                                "namePlural": "Dentists",
+                                "slug": "dentist",
+                                "slugPlural": "dentists",
+                                "deletedAt": null,
+                                "fieldLowercase": "dentistry",
+                                "nameLowercase": "dentist",
+                                "nameLowercasePlural": "dentists",
+                                "nameShort": "Dentist",
+                                "nameShortLowercase": "dentist",
+                                "nameShortPlural": "Dentists",
+                                "nameShortLowercasePlural": "dentists",
+                                "nameAbbreviated": null,
+                                "nameAbbreviatedPlural": null,
+                                "parentSpecialty": null,
+                                "nameAlt": "General Dentist",
+                                "nameAltPlural": "General Dentists"
+                            },
+                            "defaultDuration": 60,
+                            "deletedAt": null
+                        },
+                        "price": null,
+                        "duration": 60,
+                        "deletedAt": null,
+                        "createdAt": "2025-04-29T20:03:19.816+00:00",
+                        "updatedAt": "2025-04-29T20:03:19.816+00:00",
+                        "sendReminderEmails": true
+                    }
+                ],
+                "offeredServices": [
+                    {
+                        "id": 5845498,
+                        "provider": 4429809690,
+                        "service": {
+                            "id": 1,
+                            "name": "Veneers",
+                            "specialty": {
+                                "id": 525,
+                                "name": "Dentist",
+                                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                                "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                                "adjective": "General Dentistry",
+                                "field": "Dentistry",
+                                "namePlural": "Dentists",
+                                "slug": "dentist",
+                                "slugPlural": "dentists",
+                                "deletedAt": null,
+                                "fieldLowercase": "dentistry",
+                                "nameLowercase": "dentist",
+                                "nameLowercasePlural": "dentists",
+                                "nameShort": "Dentist",
+                                "nameShortLowercase": "dentist",
+                                "nameShortPlural": "Dentists",
+                                "nameShortLowercasePlural": "dentists",
+                                "nameAbbreviated": null,
+                                "nameAbbreviatedPlural": null,
+                                "parentSpecialty": null,
+                                "nameAlt": "General Dentist",
+                                "nameAltPlural": "General Dentists"
+                            },
+                            "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                            "updatedAt": "2017-06-16T11:41:29.628986+00:00"
+                        },
+                        "deletedAt": null,
+                        "createdAt": "2025-05-06T14:51:57.297+00:00",
+                        "updatedAt": "2025-05-06T14:51:57.306+00:00"
+                    },
+                    {
+                        "id": 5845499,
+                        "provider": 4429809690,
+                        "service": {
+                            "id": 2,
+                            "name": "Bonding",
+                            "specialty": {
+                                "id": 525,
+                                "name": "Dentist",
+                                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                                "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                                "adjective": "General Dentistry",
+                                "field": "Dentistry",
+                                "namePlural": "Dentists",
+                                "slug": "dentist",
+                                "slugPlural": "dentists",
+                                "deletedAt": null,
+                                "fieldLowercase": "dentistry",
+                                "nameLowercase": "dentist",
+                                "nameLowercasePlural": "dentists",
+                                "nameShort": "Dentist",
+                                "nameShortLowercase": "dentist",
+                                "nameShortPlural": "Dentists",
+                                "nameShortLowercasePlural": "dentists",
+                                "nameAbbreviated": null,
+                                "nameAbbreviatedPlural": null,
+                                "parentSpecialty": null,
+                                "nameAlt": "General Dentist",
+                                "nameAltPlural": "General Dentists"
+                            },
+                            "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                            "updatedAt": "2017-06-16T11:41:29.628986+00:00"
+                        },
+                        "deletedAt": null,
+                        "createdAt": "2025-05-06T14:51:57.46+00:00",
+                        "updatedAt": "2025-05-06T14:51:57.466+00:00"
+                    },
+                    {
+                        "id": 5845500,
+                        "provider": 4429809690,
+                        "service": {
+                            "id": 3,
+                            "name": "Braces / Invisalign",
+                            "specialty": {
+                                "id": 525,
+                                "name": "Dentist",
+                                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                                "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                                "adjective": "General Dentistry",
+                                "field": "Dentistry",
+                                "namePlural": "Dentists",
+                                "slug": "dentist",
+                                "slugPlural": "dentists",
+                                "deletedAt": null,
+                                "fieldLowercase": "dentistry",
+                                "nameLowercase": "dentist",
+                                "nameLowercasePlural": "dentists",
+                                "nameShort": "Dentist",
+                                "nameShortLowercase": "dentist",
+                                "nameShortPlural": "Dentists",
+                                "nameShortLowercasePlural": "dentists",
+                                "nameAbbreviated": null,
+                                "nameAbbreviatedPlural": null,
+                                "parentSpecialty": null,
+                                "nameAlt": "General Dentist",
+                                "nameAltPlural": "General Dentists"
+                            },
+                            "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                            "updatedAt": "2022-02-09T18:53:36.509011+00:00"
+                        },
+                        "deletedAt": null,
+                        "createdAt": "2025-05-06T14:51:57.624+00:00",
+                        "updatedAt": "2025-05-06T14:51:57.63+00:00"
+                    },
+                    {
+                        "id": 5845501,
+                        "provider": 4429809690,
+                        "service": {
+                            "id": 5,
+                            "name": "Bridges / Dentures",
+                            "specialty": {
+                                "id": 525,
+                                "name": "Dentist",
+                                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                                "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                                "adjective": "General Dentistry",
+                                "field": "Dentistry",
+                                "namePlural": "Dentists",
+                                "slug": "dentist",
+                                "slugPlural": "dentists",
+                                "deletedAt": null,
+                                "fieldLowercase": "dentistry",
+                                "nameLowercase": "dentist",
+                                "nameLowercasePlural": "dentists",
+                                "nameShort": "Dentist",
+                                "nameShortLowercase": "dentist",
+                                "nameShortPlural": "Dentists",
+                                "nameShortLowercasePlural": "dentists",
+                                "nameAbbreviated": null,
+                                "nameAbbreviatedPlural": null,
+                                "parentSpecialty": null,
+                                "nameAlt": "General Dentist",
+                                "nameAltPlural": "General Dentists"
+                            },
+                            "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                            "updatedAt": "2017-06-16T11:41:29.628986+00:00"
+                        },
+                        "deletedAt": null,
+                        "createdAt": "2025-05-06T14:51:57.78+00:00",
+                        "updatedAt": "2025-05-06T14:51:57.785+00:00"
+                    },
+                    {
+                        "id": 5845502,
+                        "provider": 4429809690,
+                        "service": {
+                            "id": 6,
+                            "name": "Nitrous Sedation",
+                            "specialty": {
+                                "id": 525,
+                                "name": "Dentist",
+                                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                                "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                                "adjective": "General Dentistry",
+                                "field": "Dentistry",
+                                "namePlural": "Dentists",
+                                "slug": "dentist",
+                                "slugPlural": "dentists",
+                                "deletedAt": null,
+                                "fieldLowercase": "dentistry",
+                                "nameLowercase": "dentist",
+                                "nameLowercasePlural": "dentists",
+                                "nameShort": "Dentist",
+                                "nameShortLowercase": "dentist",
+                                "nameShortPlural": "Dentists",
+                                "nameShortLowercasePlural": "dentists",
+                                "nameAbbreviated": null,
+                                "nameAbbreviatedPlural": null,
+                                "parentSpecialty": null,
+                                "nameAlt": "General Dentist",
+                                "nameAltPlural": "General Dentists"
+                            },
+                            "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                            "updatedAt": "2017-06-16T11:41:29.628986+00:00"
+                        },
+                        "deletedAt": null,
+                        "createdAt": "2025-05-06T14:51:57.946+00:00",
+                        "updatedAt": "2025-05-06T14:51:57.954+00:00"
+                    },
+                    {
+                        "id": 5845503,
+                        "provider": 4429809690,
+                        "service": {
+                            "id": 7,
+                            "name": "Whitening",
+                            "specialty": {
+                                "id": 525,
+                                "name": "Dentist",
+                                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                                "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                                "adjective": "General Dentistry",
+                                "field": "Dentistry",
+                                "namePlural": "Dentists",
+                                "slug": "dentist",
+                                "slugPlural": "dentists",
+                                "deletedAt": null,
+                                "fieldLowercase": "dentistry",
+                                "nameLowercase": "dentist",
+                                "nameLowercasePlural": "dentists",
+                                "nameShort": "Dentist",
+                                "nameShortLowercase": "dentist",
+                                "nameShortPlural": "Dentists",
+                                "nameShortLowercasePlural": "dentists",
+                                "nameAbbreviated": null,
+                                "nameAbbreviatedPlural": null,
+                                "parentSpecialty": null,
+                                "nameAlt": "General Dentist",
+                                "nameAltPlural": "General Dentists"
+                            },
+                            "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                            "updatedAt": "2017-06-16T11:41:29.628986+00:00"
+                        },
+                        "deletedAt": null,
+                        "createdAt": "2025-05-06T14:51:58.111+00:00",
+                        "updatedAt": "2025-05-06T14:51:58.118+00:00"
+                    },
+                    {
+                        "id": 5845504,
+                        "provider": 4429809690,
+                        "service": {
+                            "id": 9,
+                            "name": "Crown / Cap",
+                            "specialty": {
+                                "id": 525,
+                                "name": "Dentist",
+                                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                                "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                                "adjective": "General Dentistry",
+                                "field": "Dentistry",
+                                "namePlural": "Dentists",
+                                "slug": "dentist",
+                                "slugPlural": "dentists",
+                                "deletedAt": null,
+                                "fieldLowercase": "dentistry",
+                                "nameLowercase": "dentist",
+                                "nameLowercasePlural": "dentists",
+                                "nameShort": "Dentist",
+                                "nameShortLowercase": "dentist",
+                                "nameShortPlural": "Dentists",
+                                "nameShortLowercasePlural": "dentists",
+                                "nameAbbreviated": null,
+                                "nameAbbreviatedPlural": null,
+                                "parentSpecialty": null,
+                                "nameAlt": "General Dentist",
+                                "nameAltPlural": "General Dentists"
+                            },
+                            "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                            "updatedAt": "2017-06-16T11:41:29.628986+00:00"
+                        },
+                        "deletedAt": null,
+                        "createdAt": "2025-05-06T14:51:58.217+00:00",
+                        "updatedAt": "2025-05-06T14:51:58.224+00:00"
+                    },
+                    {
+                        "id": 5845505,
+                        "provider": 4429809690,
+                        "service": {
+                            "id": 14,
+                            "name": "TMJ",
+                            "specialty": {
+                                "id": 525,
+                                "name": "Dentist",
+                                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                                "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                                "adjective": "General Dentistry",
+                                "field": "Dentistry",
+                                "namePlural": "Dentists",
+                                "slug": "dentist",
+                                "slugPlural": "dentists",
+                                "deletedAt": null,
+                                "fieldLowercase": "dentistry",
+                                "nameLowercase": "dentist",
+                                "nameLowercasePlural": "dentists",
+                                "nameShort": "Dentist",
+                                "nameShortLowercase": "dentist",
+                                "nameShortPlural": "Dentists",
+                                "nameShortLowercasePlural": "dentists",
+                                "nameAbbreviated": null,
+                                "nameAbbreviatedPlural": null,
+                                "parentSpecialty": null,
+                                "nameAlt": "General Dentist",
+                                "nameAltPlural": "General Dentists"
+                            },
+                            "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                            "updatedAt": "2017-06-16T11:41:29.628986+00:00"
+                        },
+                        "deletedAt": null,
+                        "createdAt": "2025-05-06T14:51:58.384+00:00",
+                        "updatedAt": "2025-05-06T14:51:58.393+00:00"
+                    },
+                    {
+                        "id": 5845506,
+                        "provider": 4429809690,
+                        "service": {
+                            "id": 15,
+                            "name": "Cleaning",
+                            "specialty": {
+                                "id": 525,
+                                "name": "Dentist",
+                                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                                "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                                "adjective": "General Dentistry",
+                                "field": "Dentistry",
+                                "namePlural": "Dentists",
+                                "slug": "dentist",
+                                "slugPlural": "dentists",
+                                "deletedAt": null,
+                                "fieldLowercase": "dentistry",
+                                "nameLowercase": "dentist",
+                                "nameLowercasePlural": "dentists",
+                                "nameShort": "Dentist",
+                                "nameShortLowercase": "dentist",
+                                "nameShortPlural": "Dentists",
+                                "nameShortLowercasePlural": "dentists",
+                                "nameAbbreviated": null,
+                                "nameAbbreviatedPlural": null,
+                                "parentSpecialty": null,
+                                "nameAlt": "General Dentist",
+                                "nameAltPlural": "General Dentists"
+                            },
+                            "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                            "updatedAt": "2017-06-16T11:41:29.628986+00:00"
+                        },
+                        "deletedAt": null,
+                        "createdAt": "2025-05-06T14:51:58.677+00:00",
+                        "updatedAt": "2025-05-06T14:51:58.721+00:00"
+                    },
+                    {
+                        "id": 5845507,
+                        "provider": 4429809690,
+                        "service": {
+                            "id": 16,
+                            "name": "Filling",
+                            "specialty": {
+                                "id": 525,
+                                "name": "Dentist",
+                                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                                "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                                "adjective": "General Dentistry",
+                                "field": "Dentistry",
+                                "namePlural": "Dentists",
+                                "slug": "dentist",
+                                "slugPlural": "dentists",
+                                "deletedAt": null,
+                                "fieldLowercase": "dentistry",
+                                "nameLowercase": "dentist",
+                                "nameLowercasePlural": "dentists",
+                                "nameShort": "Dentist",
+                                "nameShortLowercase": "dentist",
+                                "nameShortPlural": "Dentists",
+                                "nameShortLowercasePlural": "dentists",
+                                "nameAbbreviated": null,
+                                "nameAbbreviatedPlural": null,
+                                "parentSpecialty": null,
+                                "nameAlt": "General Dentist",
+                                "nameAltPlural": "General Dentists"
+                            },
+                            "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                            "updatedAt": "2017-06-16T11:41:29.628986+00:00"
+                        },
+                        "deletedAt": null,
+                        "createdAt": "2025-05-06T14:51:58.852+00:00",
+                        "updatedAt": "2025-05-06T14:51:58.858+00:00"
+                    }
+                ],
+                "specialties": [
+                    {
+                        "id": 787,
+                        "provider": 4429809690,
+                        "specialty": {
+                            "id": 525,
+                            "name": "Dentist",
+                            "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                            "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                            "adjective": "General Dentistry",
+                            "field": "Dentistry",
+                            "namePlural": "Dentists",
+                            "slug": "dentist",
+                            "slugPlural": "dentists",
+                            "deletedAt": null,
+                            "fieldLowercase": "dentistry",
+                            "nameLowercase": "dentist",
+                            "nameLowercasePlural": "dentists",
+                            "nameShort": "Dentist",
+                            "nameShortLowercase": "dentist",
+                            "nameShortPlural": "Dentists",
+                            "nameShortLowercasePlural": "dentists",
+                            "nameAbbreviated": null,
+                            "nameAbbreviatedPlural": null,
+                            "parentSpecialty": null,
+                            "nameAlt": "General Dentist",
+                            "nameAltPlural": "General Dentists"
+                        },
+                        "createdAt": "2025-05-06T14:53:34.818+00:00",
+                        "updatedAt": "2025-05-06T14:53:34.818+00:00"
+                    }
+                ],
+                "onVacationNow": null
+            }
+        ],
+        "aggregateRating": 0,
+        "reviewsCount": 0,
+        "aggregateSubratings": {},
+        "externalAggregateRating": 0,
+        "externalReviewsCount": 0,
+        "yearsExperience": 16
+    }
+]

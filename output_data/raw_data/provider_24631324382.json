@@ -1,0 +1,3031 @@
+[
+    {
+        "id": 24631324382,
+        "name": "Dr. Haneih Barkhodari",
+        "about": null,
+        "email": "dr.Barkhodari@cpwdentistry.com",
+        "emailVerified": null,
+        "primaryPhoto": {
+            "name": "doctor-primary_d8243201-fd79-49ed-9318-e966a5a7b00f",
+            "extension": "jpeg",
+            "verified": false
+        },
+        "deletedAt": null,
+        "createdAt": "2025-04-21 15:29:27.522+00",
+        "updatedAt": "2025-04-22 10:30:04.658727+00",
+        "photos": [],
+        "gender": "F",
+        "metadata": {
+            "setupWizardComplete": true
+        },
+        "deletedBy": null,
+        "claimedAt": "2025-04-21 15:29:27.578+00",
+        "approvedAt": null,
+        "assignedTo": null,
+        "canonicalPath": "/dentists/new-york-ny/dr-haneih-barkhodari-24631324382d/",
+        "npi": null,
+        "huckleberryData": {},
+        "lastSyncedAt": null,
+        "aggregateReviewData": null,
+        "seoData": {
+            "noindex": false
+        },
+        "externalReviewData": {},
+        "reviews": [],
+        "externalReviews": [],
+        "specialties": [
+            {
+                "id": 525,
+                "name": "Dentist",
+                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                "adjective": "General Dentistry",
+                "field": "Dentistry",
+                "namePlural": "Dentists",
+                "slug": "dentist",
+                "slugPlural": "dentists",
+                "deletedAt": null,
+                "fieldLowercase": "dentistry",
+                "nameLowercase": "dentist",
+                "nameLowercasePlural": "dentists",
+                "nameShort": "Dentist",
+                "nameShortLowercase": "dentist",
+                "nameShortPlural": "Dentists",
+                "nameShortLowercasePlural": "dentists",
+                "nameAbbreviated": null,
+                "nameAbbreviatedPlural": null,
+                "parentSpecialty": null,
+                "nameAlt": "General Dentist",
+                "nameAltPlural": "General Dentists"
+            }
+        ],
+        "languages": [
+            {
+                "id": 1,
+                "name": "English",
+                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                "updatedAt": "2017-06-16T11:41:29.628986+00:00"
+            }
+        ],
+        "potentialAppointmentTypes": [
+            {
+                "id": 4133,
+                "name": "Dental Consultation",
+                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                "specialty": 525,
+                "defaultDuration": 45,
+                "deletedAt": null
+            },
+            {
+                "id": 7,
+                "name": "Dental Emergency",
+                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                "specialty": 525,
+                "defaultDuration": 45,
+                "deletedAt": null
+            },
+            {
+                "id": 1,
+                "name": "Initial Visit",
+                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                "specialty": 525,
+                "defaultDuration": 60,
+                "deletedAt": null
+            }
+        ],
+        "potentialServices": [
+            {
+                "id": 1,
+                "name": "Veneers",
+                "specialty": 525,
+                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                "updatedAt": "2017-06-16T11:41:29.628986+00:00"
+            },
+            {
+                "id": 2,
+                "name": "Bonding",
+                "specialty": 525,
+                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                "updatedAt": "2017-06-16T11:41:29.628986+00:00"
+            },
+            {
+                "id": 3,
+                "name": "Braces / Invisalign",
+                "specialty": 525,
+                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                "updatedAt": "2022-02-09T18:53:36.509011+00:00"
+            },
+            {
+                "id": 4,
+                "name": "Wisdom Teeth Removal",
+                "specialty": 525,
+                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                "updatedAt": "2017-06-16T11:41:29.628986+00:00"
+            },
+            {
+                "id": 5,
+                "name": "Bridges / Dentures",
+                "specialty": 525,
+                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                "updatedAt": "2017-06-16T11:41:29.628986+00:00"
+            },
+            {
+                "id": 6,
+                "name": "Nitrous Sedation",
+                "specialty": 525,
+                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                "updatedAt": "2017-06-16T11:41:29.628986+00:00"
+            },
+            {
+                "id": 7,
+                "name": "Whitening",
+                "specialty": 525,
+                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                "updatedAt": "2017-06-16T11:41:29.628986+00:00"
+            },
+            {
+                "id": 8,
+                "name": "Implants",
+                "specialty": 525,
+                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                "updatedAt": "2017-06-16T11:41:29.628986+00:00"
+            },
+            {
+                "id": 9,
+                "name": "Crown / Cap",
+                "specialty": 525,
+                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                "updatedAt": "2017-06-16T11:41:29.628986+00:00"
+            },
+            {
+                "id": 10,
+                "name": "Root Canal",
+                "specialty": 525,
+                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                "updatedAt": "2017-06-16T11:41:29.628986+00:00"
+            },
+            {
+                "id": 11,
+                "name": "Tooth Extraction",
+                "specialty": 525,
+                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                "updatedAt": "2017-06-16T11:41:29.628986+00:00"
+            },
+            {
+                "id": 12,
+                "name": "Gum Surgery",
+                "specialty": 525,
+                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                "updatedAt": "2017-06-16T11:41:29.628986+00:00"
+            },
+            {
+                "id": 13,
+                "name": "Sleep apnea",
+                "specialty": 525,
+                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                "updatedAt": "2017-06-16T11:41:29.628986+00:00"
+            },
+            {
+                "id": 14,
+                "name": "TMJ",
+                "specialty": 525,
+                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                "updatedAt": "2017-06-16T11:41:29.628986+00:00"
+            },
+            {
+                "id": 15,
+                "name": "Cleaning",
+                "specialty": 525,
+                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                "updatedAt": "2017-06-16T11:41:29.628986+00:00"
+            },
+            {
+                "id": 16,
+                "name": "Filling",
+                "specialty": 525,
+                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                "updatedAt": "2017-06-16T11:41:29.628986+00:00"
+            }
+        ],
+        "questionResponses": [],
+        "insurancePlans": [
+            {
+                "id": 5311,
+                "name": "Aetna Advantage™ Dental",
+                "provider": {
+                    "id": 455,
+                    "name": "Aetna",
+                    "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                    "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                    "type": "DENTAL",
+                    "slug": "aetna",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            },
+            {
+                "id": 5314,
+                "name": "Aetna HealthFund®/Aetna DentalFund®",
+                "provider": {
+                    "id": 455,
+                    "name": "Aetna",
+                    "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                    "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                    "type": "DENTAL",
+                    "slug": "aetna",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                "updatedAt": "2018-04-19T15:49:41.236+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            },
+            {
+                "id": 5313,
+                "name": "Aetna HealthFund/Aetna DentalFund with PPO II Network",
+                "provider": {
+                    "id": 455,
+                    "name": "Aetna",
+                    "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                    "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                    "type": "DENTAL",
+                    "slug": "aetna",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            },
+            {
+                "id": 5315,
+                "name": "Aetna Individual Advantage(SM) Dental PPO",
+                "provider": {
+                    "id": 455,
+                    "name": "Aetna",
+                    "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                    "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                    "type": "DENTAL",
+                    "slug": "aetna",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            },
+            {
+                "id": 6468,
+                "name": "All Dental with BlueCard PPO Basic",
+                "provider": {
+                    "id": 599,
+                    "name": "Premera Blue Cross",
+                    "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                    "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                    "type": "DENTAL",
+                    "slug": "premera-blue-cross",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            },
+            {
+                "id": 6469,
+                "name": "All Dental with BlueCard PPO/Traditional",
+                "provider": {
+                    "id": 599,
+                    "name": "Premera Blue Cross",
+                    "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                    "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                    "type": "DENTAL",
+                    "slug": "premera-blue-cross",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                "updatedAt": "2018-04-19T16:08:00.6+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            },
+            {
+                "id": 5477,
+                "name": "Choice Plus",
+                "provider": {
+                    "id": 507,
+                    "name": "Cigna",
+                    "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                    "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                    "type": "DENTAL",
+                    "slug": "cigna",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            },
+            {
+                "id": 7151,
+                "name": "Cigna Dental PPO",
+                "provider": {
+                    "id": 507,
+                    "name": "Cigna",
+                    "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                    "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                    "type": "DENTAL",
+                    "slug": "cigna",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2017-03-28T14:51:29.380406+00:00",
+                "updatedAt": "2017-03-28T14:51:29.427086+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            },
+            {
+                "id": 7152,
+                "name": "Cigna Dental PPO: Advantage Dentists",
+                "provider": {
+                    "id": 507,
+                    "name": "Cigna",
+                    "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                    "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                    "type": "DENTAL",
+                    "slug": "cigna",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2017-03-28T14:51:29.380406+00:00",
+                "updatedAt": "2017-03-28T14:51:29.427086+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            },
+            {
+                "id": 7155,
+                "name": "Cigna Dental PPO (Core Network)",
+                "provider": {
+                    "id": 507,
+                    "name": "Cigna",
+                    "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                    "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                    "type": "DENTAL",
+                    "slug": "cigna",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2017-03-28T14:51:29.380406+00:00",
+                "updatedAt": "2017-03-28T14:51:29.427086+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            },
+            {
+                "id": 5485,
+                "name": "Cigna Dental PPO: Radius Network",
+                "provider": {
+                    "id": 507,
+                    "name": "Cigna",
+                    "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                    "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                    "type": "DENTAL",
+                    "slug": "cigna",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            },
+            {
+                "id": 5320,
+                "name": "Costco Core PPO",
+                "provider": {
+                    "id": 455,
+                    "name": "Aetna",
+                    "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                    "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                    "type": "DENTAL",
+                    "slug": "aetna",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            },
+            {
+                "id": 5321,
+                "name": "Costco Premium PPO",
+                "provider": {
+                    "id": 455,
+                    "name": "Aetna",
+                    "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                    "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                    "type": "DENTAL",
+                    "slug": "aetna",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            },
+            {
+                "id": 6470,
+                "name": "Dental Choice (Not CoPay) with BlueCard PPO Basic",
+                "provider": {
+                    "id": 599,
+                    "name": "Premera Blue Cross",
+                    "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                    "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                    "type": "DENTAL",
+                    "slug": "premera-blue-cross",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            },
+            {
+                "id": 6471,
+                "name": "Dental Choice (Not CoPay) with BlueCard PPO/Traditional",
+                "provider": {
+                    "id": 599,
+                    "name": "Premera Blue Cross",
+                    "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                    "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                    "type": "DENTAL",
+                    "slug": "premera-blue-cross",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                "updatedAt": "2018-04-19T16:07:14.129+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            },
+            {
+                "id": 6472,
+                "name": "Dental Copay Select with BlueCard PPO Basic",
+                "provider": {
+                    "id": 599,
+                    "name": "Premera Blue Cross",
+                    "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                    "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                    "type": "DENTAL",
+                    "slug": "premera-blue-cross",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            },
+            {
+                "id": 6473,
+                "name": "Dental Copay Select with BlueCard PPO/Traditional",
+                "provider": {
+                    "id": 599,
+                    "name": "Premera Blue Cross",
+                    "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                    "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                    "type": "DENTAL",
+                    "slug": "premera-blue-cross",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                "updatedAt": "2018-04-19T16:07:32.489+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            },
+            {
+                "id": 5323,
+                "name": "Dental EPP with PPO II Network",
+                "provider": {
+                    "id": 455,
+                    "name": "Aetna",
+                    "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                    "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                    "type": "DENTAL",
+                    "slug": "aetna",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            },
+            {
+                "id": 5649,
+                "name": "Dental PPO",
+                "provider": {
+                    "id": 548,
+                    "name": "Guardian",
+                    "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                    "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                    "type": "DENTAL",
+                    "slug": "guardian",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            },
+            {
+                "id": 7638,
+                "name": "Dental PPO Network",
+                "provider": {
+                    "id": 455,
+                    "name": "Aetna",
+                    "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                    "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                    "type": "DENTAL",
+                    "slug": "aetna",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2024-03-13T21:00:08.42283+00:00",
+                "updatedAt": "2024-03-13T21:00:08.42283+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            },
+            {
+                "id": 5325,
+                "name": "Dental PPO/PDN",
+                "provider": {
+                    "id": 455,
+                    "name": "Aetna",
+                    "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                    "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                    "type": "DENTAL",
+                    "slug": "aetna",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            },
+            {
+                "id": 5326,
+                "name": "Dental PPO/PDN with PPO II Network",
+                "provider": {
+                    "id": 455,
+                    "name": "Aetna",
+                    "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                    "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                    "type": "DENTAL",
+                    "slug": "aetna",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            },
+            {
+                "id": 7632,
+                "name": "Dental PPO Plan",
+                "provider": {
+                    "id": 455,
+                    "name": "Aetna",
+                    "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                    "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                    "type": "DENTAL",
+                    "slug": "aetna",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2024-03-13T21:00:08.42283+00:00",
+                "updatedAt": "2024-03-13T21:00:08.42283+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            },
+            {
+                "id": 7231,
+                "name": "Elite Plus",
+                "provider": {
+                    "id": 630,
+                    "name": "United Concordia",
+                    "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                    "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                    "type": "DENTAL",
+                    "slug": "united-concordia",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2017-03-28T14:51:29.380406+00:00",
+                "updatedAt": "2019-02-25T21:38:40.161+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            },
+            {
+                "id": 5898,
+                "name": "PDP",
+                "provider": {
+                    "id": 585,
+                    "name": "MetLife",
+                    "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                    "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                    "type": "DENTAL",
+                    "slug": "metlife",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            },
+            {
+                "id": 5899,
+                "name": "PDP Plus (Preferred Dentist Program)",
+                "provider": {
+                    "id": 585,
+                    "name": "MetLife",
+                    "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                    "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                    "type": "DENTAL",
+                    "slug": "metlife",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            },
+            {
+                "id": 5663,
+                "name": "PPO: DentalGuard Preferred",
+                "provider": {
+                    "id": 548,
+                    "name": "Guardian",
+                    "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                    "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                    "type": "DENTAL",
+                    "slug": "guardian",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            },
+            {
+                "id": 5664,
+                "name": "PPO: DentalGuard Preferred/Premier",
+                "provider": {
+                    "id": 548,
+                    "name": "Guardian",
+                    "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                    "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                    "type": "DENTAL",
+                    "slug": "guardian",
+                    "countries": [
+                        "US"
+                    ],
+                    "isSocialAssistance": null
+                },
+                "createdAt": "2015-06-11T22:18:29.415884+00:00",
+                "updatedAt": "2015-06-11T22:18:29.415884+00:00",
+                "isSocialAssistance": null,
+                "deletedAt": null
+            }
+        ],
+        "providers": [
+            {
+                "id": 4429809656,
+                "clinic": {
+                    "id": 24630731848,
+                    "company": 90576,
+                    "phone": "+12125798885",
+                    "phoneVerified": "2023-09-06T14:32:11.922+00:00",
+                    "name": "CPW Dentistry | 62nd",
+                    "hours": [
+                        {
+                            "start": 540,
+                            "end": 1080
+                        },
+                        {
+                            "start": 480,
+                            "end": 1260
+                        },
+                        {
+                            "start": 480,
+                            "end": 1260
+                        },
+                        {
+                            "start": 480,
+                            "end": 1260
+                        },
+                        {
+                            "start": 480,
+                            "end": 1260
+                        },
+                        {
+                            "start": 480,
+                            "end": 1260
+                        },
+                        {
+                            "start": 540,
+                            "end": 1080
+                        }
+                    ],
+                    "address": {
+                        "street_number": "25",
+                        "route": "Central Park West",
+                        "political": "Manhattan",
+                        "locality": "New York",
+                        "administrative_area_level_2": "New York County",
+                        "administrative_area_level_1": "New York",
+                        "administrative_area_level_1_short": "NY",
+                        "country": "United States",
+                        "postal_code": "10023",
+                        "postal_code_suffix": "7253",
+                        "suite": "Ste 1B",
+                        "customNeighborhood": ""
+                    },
+                    "latitude": 40.7705447,
+                    "longitude": -73.9807761,
+                    "description": "Experience top-notch, truly patient-centric dental services any day of the week with flexible scheduling that includes early mornings, late evenings, weekends, and even holidays. Whether you're dealing with an unexpected weekend dental emergency, scheduling a routine wellness check-up, or exploring advanced cosmetic procedures, our talented team is committed to providing personalized care in a welcoming environment. Let's change the way you feel about going to the dentist!",
+                    "website": "https://www.cpwdentistry.com",
+                    "email": "office@cpwdentistry.com",
+                    "emailVerified": "2023-09-07T17:16:17.357+00:00",
+                    "primaryPhoto": {
+                        "name": "clinic-primary_aa0b6213-c141-4eec-a3ae-75f6e2f4c144",
+                        "extension": "jpeg",
+                        "verified": false
+                    },
+                    "photos": [
+                        {
+                            "name": "clinic-photos_c958659e-1869-4540-9344-05e19bacc5db",
+                            "extension": "jpeg",
+                            "description": null,
+                            "verified": false
+                        },
+                        {
+                            "name": "clinic-photos_041e26b4-3c75-4464-9a85-123b415a4bae",
+                            "extension": "jpeg",
+                            "description": null,
+                            "verified": false
+                        },
+                        {
+                            "name": "clinic-photos_1013da65-0621-423f-a140-171a8b7afe74",
+                            "extension": "jpeg",
+                            "description": null,
+                            "verified": false
+                        },
+                        {
+                            "name": "clinic-photos_75d5a6af-e2a8-40cd-8d4a-57526ee320e4",
+                            "extension": "jpeg",
+                            "description": null,
+                            "verified": false
+                        },
+                        {
+                            "name": "clinic-photos_c828ac80-7de6-4b8e-866d-a2771cec4814",
+                            "extension": "jpeg",
+                            "description": null,
+                            "verified": false
+                        },
+                        {
+                            "name": "clinic-photos_66670f13-e14c-466a-9a7b-889004a851f5",
+                            "extension": "jpeg",
+                            "description": null,
+                            "verified": false
+                        },
+                        {
+                            "name": "clinic-photos_3299a8fa-1528-4613-bd06-3c543fa448f9",
+                            "extension": "jpeg",
+                            "description": null,
+                            "verified": false
+                        },
+                        {
+                            "name": "clinic-photos_ce32f641-4e81-4b41-89e4-bf5a921aac58",
+                            "extension": "jpeg",
+                            "description": null,
+                            "verified": false
+                        },
+                        {
+                            "name": "clinic-photos_268279ad-bd62-4a21-b23a-9980a07eede0",
+                            "extension": "jpeg",
+                            "description": null,
+                            "verified": false
+                        },
+                        {
+                            "name": "clinic-photos_ea35d0b5-471f-45ec-91f5-bfd876ff3ab4",
+                            "extension": "jpeg",
+                            "description": null,
+                            "verified": false
+                        },
+                        {
+                            "name": "clinic-photos_26273706-b354-4fb7-98eb-560e3451f151",
+                            "extension": "jpeg",
+                            "description": null,
+                            "verified": false
+                        },
+                        {
+                            "name": "clinic-photos_db308561-14d9-4fda-951d-6459129fd9d6",
+                            "extension": "jpeg",
+                            "description": null,
+                            "verified": false
+                        },
+                        {
+                            "name": "clinic-photos_38285e29-5541-4ecb-92b0-c9272b7e7a75",
+                            "extension": "jpeg",
+                            "description": null,
+                            "verified": false
+                        },
+                        {
+                            "name": "clinic-photos_91da04d5-36fe-42ed-9a41-2dcda0681d2f",
+                            "extension": "jpeg",
+                            "description": null,
+                            "verified": false
+                        },
+                        {
+                            "name": "clinic-photos_ad7e8ce7-aa63-48ea-873d-8264c26dda23",
+                            "extension": "jpeg",
+                            "description": null,
+                            "verified": false
+                        },
+                        {
+                            "name": "clinic-photos_d7ceca6f-f9d7-4f91-8c4b-d7dce419460d",
+                            "extension": "jpeg",
+                            "description": null,
+                            "verified": false
+                        },
+                        {
+                            "name": "clinic-photos_466f784e-dd73-433b-aa8a-ee377c5d9d84",
+                            "extension": "jpeg",
+                            "description": null,
+                            "verified": false
+                        },
+                        {
+                            "name": "clinic-photos_ebe79101-d521-4845-9052-2696c8150535",
+                            "extension": "jpeg",
+                            "description": null,
+                            "verified": false
+                        },
+                        {
+                            "name": "clinic-photos_e9268dc5-92ab-4e8c-8cbf-68d905c30db0",
+                            "extension": "jpeg",
+                            "description": null,
+                            "verified": false
+                        },
+                        {
+                            "name": "clinic-photos_71e35b66-5c3a-4005-b658-5a49428370c6",
+                            "extension": "jpeg",
+                            "description": null,
+                            "verified": false
+                        }
+                    ],
+                    "paymentMethods": null,
+                    "deletedAt": null,
+                    "createdAt": "2023-09-06T14:28:51.982+00:00",
+                    "updatedAt": "2025-05-10T09:16:28.902+00:00",
+                    "phoneToken": {
+                        "createdAt": 0,
+                        "attempts": 0,
+                        "token": ""
+                    },
+                    "metadata": {
+                        "unviewedAppointmentDrip": false,
+                        "appointmentReconfirmationFeature": true,
+                        "appointmentMessageTemplateFeature": true,
+                        "appointmentNprDripFeature": true,
+                        "appointmentDailySummaryFeature": true,
+                        "instantBookOnlyFeature": false,
+                        "clickToCallSettings": {
+                            "showPatientPhone": true,
+                            "showPatientPhoneScheduledOnly": false,
+                            "showPatientPhoneAlways": true
+                        },
+                        "inNetworkOnlyFeature": true,
+                        "isInsuranceOnlyFeature": false,
+                        "cohort": "",
+                        "practiceManagementSoftware": {
+                            "name": "CareStack"
+                        },
+                        "originalOnboardingDate": "2023-09-07",
+                        "signedDocumentsAt": "2023-09-07T16:03:37.162Z",
+                        "postCovidBulkMessage": {
+                            "bulkMessageSent": false,
+                            "bulkMessageSkip": true,
+                            "showBulkMessageReminder": false
+                        },
+                        "acceptsDentalInsuranceOnAssignment": true,
+                        "pick3SlotUsageCount": 10,
+                        "salesforce": {
+                            "accountId": "0014z00001xdIyUAAU"
+                        },
+                        "holidayHoursModal": {
+                            "date": "2025-11-01",
+                            "canDefer": true
+                        },
+                        "opencareProFeature": true,
+                        "roiDashboardFeature": true,
+                        "autoReconciliationFeature": true,
+                        "clinicRoiOptInResponse": {
+                            "optedIn": true,
+                            "optedAt": "2023-11-06T19:37:29.999Z"
+                        },
+                        "opencareProBrandingFeature": true,
+                        "lessThan10IbSlotsWarning": {
+                            "warningLastDisplayedAt": "2025-05-05T20:33:19-04:00",
+                            "bannerLastDisplayedAt": "2023-12-27T15:52:25-05:00"
+                        },
+                        "phoneCall": {
+                            "callSid": "CAc4b7d1492ded9e16a36f9f912cff62e9",
+                            "answeredBy": "unknown"
+                        }
+                    },
+                    "deletedBy": null,
+                    "fax": null,
+                    "onlineBooking": false,
+                    "claimedAt": "2023-09-06T14:32:11.989+00:00",
+                    "importData": {
+                        "name": "ADMIN",
+                        "date": "2023-09-06"
+                    },
+                    "approvedAt": null,
+                    "assignedTo": null,
+                    "canonicalPath": "/dentists/new-york-ny/cpw-dentistry-nd-24630731848c/",
+                    "primarySpecialty": 525,
+                    "awardData": {},
+                    "huckleberryData": {},
+                    "lastSyncedAt": null,
+                    "aggregateReviewData": {
+                        "dataPoints": 20,
+                        "numSources": 2,
+                        "averageRating": 5,
+                        "hasExternalReviews": true
+                    },
+                    "seoData": {
+                        "noindex": false
+                    },
+                    "externalReviewData": {},
+                    "notificationSettings": {
+                        "confirmation": false,
+                        "reminders": false,
+                        "automatedWelcomeMessageToPatient": true,
+                        "automatedWelcomeMessageToPatientTemplate": "Thank you for submitting an appointment request! We're excited to welcome you to our office. Currently, we are reviewing the details of your request and verifying your insurance coverage. Our office participates with most Aetna, Cigna, Premera, and United Concordia Elite PPO plans, and we also accept many MetLife and Guardian PPO plans as a non-contracted provider. We will notify you about the next steps soon. If you have any questions in the meantime, please don’t hesitate to reach out to us. ",
+                        "automatedOffHoursMessageToPatient": true,
+                        "automatedOffHoursMessageToPatientTemplate": "Thank you for submitting an appointment request! We're excited to welcome you to our office. We're closed right now, but as soon we we're back we'll review the details of your request and verify your insurance coverage. Our office participates with most Aetna, Cigna, Premera, and United Concordia Elite PPO plans, and we also accept many MetLife and Guardian PPO plans as a non-contracted provider. We'll notify you about the next steps soon. If you have any questions in the meantime, please don’t hesitate to reach out to us. ",
+                        "unviewedAppointmentsReminder": true
+                    },
+                    "geom": {
+                        "type": "Point",
+                        "crs": {
+                            "type": "name",
+                            "properties": {
+                                "name": "EPSG:4326"
+                            }
+                        },
+                        "coordinates": [
+                            -73.9807761,
+                            40.7705447
+                        ]
+                    },
+                    "forwardPhone": "+18628292647",
+                    "forwardPhones": null,
+                    "officeContact": null,
+                    "accountExecutive": 1102630,
+                    "customerEnablementManager": 963738,
+                    "customerSuccessManager": 936064,
+                    "promoEnabled": null,
+                    "remainingPromoNprs": null,
+                    "nprCapacity": null,
+                    "isSuperPractice": false,
+                    "ivEnabled": false,
+                    "covidSafetyProceduresMap": {
+                        "closedDoor": false,
+                        "additionalPPE": false,
+                        "temperatureCheck": false,
+                        "telehealthOptions": false,
+                        "appointmentSpacing": false,
+                        "prePayAppointments": true,
+                        "patientPreScreening": false,
+                        "airPurificationSystems": true,
+                        "hospitalGradeDisinfectant": true,
+                        "plexiglassAtReceptionArea": false,
+                        "additionalSanitizationStations": true
+                    },
+                    "claimsEnabled": false,
+                    "ivEnabledAt": null,
+                    "ivChurnAt": null,
+                    "claimsEnabledAt": null,
+                    "claimsChurnAt": null,
+                    "instantBookConfiguration": {
+                        "rooms": [
+                            {
+                                "mappings": [
+                                    {
+                                        "roomId": "7",
+                                        "appointmentDuration": 90
+                                    },
+                                    {
+                                        "roomId": "8",
+                                        "appointmentDuration": 90
+                                    }
+                                ],
+                                "dayOfWeek": "Monday",
+                                "providerId": "4429806014",
+                                "syncStrategy": "ANY_ROOM",
+                                "appointmentType": "NEW_PATIENT_EXAM_AND_CLEANING",
+                                "doubleBookingEnabled": false,
+                                "mappingsOrderReversible": false
+                            },
+                            {
+                                "mappings": [
+                                    {
+                                        "roomId": "7",
+                                        "appointmentDuration": 90
+                                    },
+                                    {
+                                        "roomId": "8",
+                                        "appointmentDuration": 90
+                                    }
+                                ],
+                                "dayOfWeek": "Wednesday",
+                                "providerId": "4429806014",
+                                "syncStrategy": "ANY_ROOM",
+                                "appointmentType": "NEW_PATIENT_EXAM_AND_CLEANING",
+                                "doubleBookingEnabled": false,
+                                "mappingsOrderReversible": false
+                            },
+                            {
+                                "mappings": [
+                                    {
+                                        "roomId": "7",
+                                        "appointmentDuration": 90
+                                    },
+                                    {
+                                        "roomId": "8",
+                                        "appointmentDuration": 90
+                                    }
+                                ],
+                                "dayOfWeek": "Thursday",
+                                "providerId": "4429806014",
+                                "syncStrategy": "ANY_ROOM",
+                                "appointmentType": "NEW_PATIENT_EXAM_AND_CLEANING",
+                                "doubleBookingEnabled": false,
+                                "mappingsOrderReversible": false
+                            },
+                            {
+                                "mappings": [
+                                    {
+                                        "roomId": "7",
+                                        "appointmentDuration": 90
+                                    },
+                                    {
+                                        "roomId": "8",
+                                        "appointmentDuration": 90
+                                    }
+                                ],
+                                "dayOfWeek": "Saturday",
+                                "providerId": "4429806014",
+                                "syncStrategy": "ANY_ROOM",
+                                "appointmentType": "NEW_PATIENT_EXAM_AND_CLEANING",
+                                "doubleBookingEnabled": false,
+                                "mappingsOrderReversible": false
+                            },
+                            {
+                                "mappings": [
+                                    {
+                                        "roomId": "4",
+                                        "appointmentDuration": 30
+                                    },
+                                    {
+                                        "roomId": "7",
+                                        "appointmentDuration": 60
+                                    }
+                                ],
+                                "dayOfWeek": "Monday",
+                                "providerId": "4429806014",
+                                "syncStrategy": "SEQUENTIAL_ROOMS",
+                                "appointmentType": "NEW_PATIENT_EXAM_AND_CLEANING",
+                                "doubleBookingEnabled": false,
+                                "mappingsOrderReversible": false
+                            },
+                            {
+                                "mappings": [
+                                    {
+                                        "roomId": "4",
+                                        "appointmentDuration": 30
+                                    },
+                                    {
+                                        "roomId": "7",
+                                        "appointmentDuration": 60
+                                    }
+                                ],
+                                "dayOfWeek": "Thursday",
+                                "providerId": "4429806014",
+                                "syncStrategy": "SEQUENTIAL_ROOMS",
+                                "appointmentType": "NEW_PATIENT_EXAM_AND_CLEANING",
+                                "doubleBookingEnabled": false,
+                                "mappingsOrderReversible": false
+                            },
+                            {
+                                "mappings": [
+                                    {
+                                        "roomId": "4",
+                                        "appointmentDuration": 30
+                                    },
+                                    {
+                                        "roomId": "7",
+                                        "appointmentDuration": 60
+                                    }
+                                ],
+                                "dayOfWeek": "Saturday",
+                                "providerId": "4429806014",
+                                "syncStrategy": "SEQUENTIAL_ROOMS",
+                                "appointmentType": "NEW_PATIENT_EXAM_AND_CLEANING",
+                                "doubleBookingEnabled": false,
+                                "mappingsOrderReversible": false
+                            },
+                            {
+                                "mappings": [
+                                    {
+                                        "roomId": "4",
+                                        "appointmentDuration": 30
+                                    },
+                                    {
+                                        "roomId": "8",
+                                        "appointmentDuration": 60
+                                    }
+                                ],
+                                "dayOfWeek": "Monday",
+                                "providerId": "4429806014",
+                                "syncStrategy": "SEQUENTIAL_ROOMS",
+                                "appointmentType": "NEW_PATIENT_EXAM_AND_CLEANING",
+                                "doubleBookingEnabled": false,
+                                "mappingsOrderReversible": false
+                            },
+                            {
+                                "mappings": [
+                                    {
+                                        "roomId": "4",
+                                        "appointmentDuration": 30
+                                    },
+                                    {
+                                        "roomId": "8",
+                                        "appointmentDuration": 60
+                                    }
+                                ],
+                                "dayOfWeek": "Thursday",
+                                "providerId": "4429806014",
+                                "syncStrategy": "SEQUENTIAL_ROOMS",
+                                "appointmentType": "NEW_PATIENT_EXAM_AND_CLEANING",
+                                "doubleBookingEnabled": false,
+                                "mappingsOrderReversible": false
+                            },
+                            {
+                                "mappings": [
+                                    {
+                                        "roomId": "4",
+                                        "appointmentDuration": 30
+                                    },
+                                    {
+                                        "roomId": "8",
+                                        "appointmentDuration": 60
+                                    }
+                                ],
+                                "dayOfWeek": "Saturday",
+                                "providerId": "4429806014",
+                                "syncStrategy": "SEQUENTIAL_ROOMS",
+                                "appointmentType": "NEW_PATIENT_EXAM_AND_CLEANING",
+                                "doubleBookingEnabled": false,
+                                "mappingsOrderReversible": false
+                            },
+                            {
+                                "mappings": [
+                                    {
+                                        "roomId": "5",
+                                        "appointmentDuration": 30
+                                    },
+                                    {
+                                        "roomId": "7",
+                                        "appointmentDuration": 60
+                                    }
+                                ],
+                                "dayOfWeek": "Wednesday",
+                                "providerId": "4429806014",
+                                "syncStrategy": "SEQUENTIAL_ROOMS",
+                                "appointmentType": "NEW_PATIENT_EXAM_AND_CLEANING",
+                                "doubleBookingEnabled": false,
+                                "mappingsOrderReversible": false
+                            },
+                            {
+                                "mappings": [
+                                    {
+                                        "roomId": "5",
+                                        "appointmentDuration": 30
+                                    },
+                                    {
+                                        "roomId": "8",
+                                        "appointmentDuration": 60
+                                    }
+                                ],
+                                "dayOfWeek": "Wednesday",
+                                "providerId": "4429806014",
+                                "syncStrategy": "SEQUENTIAL_ROOMS",
+                                "appointmentType": "NEW_PATIENT_EXAM_AND_CLEANING",
+                                "doubleBookingEnabled": false,
+                                "mappingsOrderReversible": false
+                            },
+                            {
+                                "mappings": [
+                                    {
+                                        "roomId": "7",
+                                        "appointmentDuration": 90
+                                    },
+                                    {
+                                        "roomId": "8",
+                                        "appointmentDuration": 90
+                                    }
+                                ],
+                                "dayOfWeek": "Tuesday",
+                                "providerId": "4429806010",
+                                "syncStrategy": "ANY_ROOM",
+                                "appointmentType": "NEW_PATIENT_EXAM_AND_CLEANING",
+                                "doubleBookingEnabled": false,
+                                "mappingsOrderReversible": false
+                            },
+                            {
+                                "mappings": [
+                                    {
+                                        "roomId": "7",
+                                        "appointmentDuration": 90
+                                    },
+                                    {
+                                        "roomId": "8",
+                                        "appointmentDuration": 90
+                                    }
+                                ],
+                                "dayOfWeek": "Wednesday",
+                                "providerId": "4429806010",
+                                "syncStrategy": "ANY_ROOM",
+                                "appointmentType": "NEW_PATIENT_EXAM_AND_CLEANING",
+                                "doubleBookingEnabled": false,
+                                "mappingsOrderReversible": false
+                            },
+                            {
+                                "mappings": [
+                                    {
+                                        "roomId": "7",
+                                        "appointmentDuration": 90
+                                    },
+                                    {
+                                        "roomId": "8",
+                                        "appointmentDuration": 90
+                                    }
+                                ],
+                                "dayOfWeek": "Thursday",
+                                "providerId": "4429806010",
+                                "syncStrategy": "ANY_ROOM",
+                                "appointmentType": "NEW_PATIENT_EXAM_AND_CLEANING",
+                                "doubleBookingEnabled": false,
+                                "mappingsOrderReversible": false
+                            },
+                            {
+                                "mappings": [
+                                    {
+                                        "roomId": "4",
+                                        "appointmentDuration": 30
+                                    },
+                                    {
+                                        "roomId": "7",
+                                        "appointmentDuration": 60
+                                    }
+                                ],
+                                "dayOfWeek": "Tuesday",
+                                "providerId": "4429806010",
+                                "syncStrategy": "SEQUENTIAL_ROOMS",
+                                "appointmentType": "NEW_PATIENT_EXAM_AND_CLEANING",
+                                "doubleBookingEnabled": false,
+                                "mappingsOrderReversible": false
+                            },
+                            {
+                                "mappings": [
+                                    {
+                                        "roomId": "4",
+                                        "appointmentDuration": 30
+                                    },
+                                    {
+                                        "roomId": "7",
+                                        "appointmentDuration": 60
+                                    }
+                                ],
+                                "dayOfWeek": "Wednesday",
+                                "providerId": "4429806010",
+                                "syncStrategy": "SEQUENTIAL_ROOMS",
+                                "appointmentType": "NEW_PATIENT_EXAM_AND_CLEANING",
+                                "doubleBookingEnabled": false,
+                                "mappingsOrderReversible": false
+                            },
+                            {
+                                "mappings": [
+                                    {
+                                        "roomId": "4",
+                                        "appointmentDuration": 30
+                                    },
+                                    {
+                                        "roomId": "7",
+                                        "appointmentDuration": 60
+                                    }
+                                ],
+                                "dayOfWeek": "Thursday",
+                                "providerId": "4429806010",
+                                "syncStrategy": "SEQUENTIAL_ROOMS",
+                                "appointmentType": "NEW_PATIENT_EXAM_AND_CLEANING",
+                                "doubleBookingEnabled": false,
+                                "mappingsOrderReversible": false
+                            },
+                            {
+                                "mappings": [
+                                    {
+                                        "roomId": "4",
+                                        "appointmentDuration": 30
+                                    },
+                                    {
+                                        "roomId": "8",
+                                        "appointmentDuration": 60
+                                    }
+                                ],
+                                "dayOfWeek": "Tuesday",
+                                "providerId": "4429806010",
+                                "syncStrategy": "SEQUENTIAL_ROOMS",
+                                "appointmentType": "NEW_PATIENT_EXAM_AND_CLEANING",
+                                "doubleBookingEnabled": false,
+                                "mappingsOrderReversible": false
+                            },
+                            {
+                                "mappings": [
+                                    {
+                                        "roomId": "4",
+                                        "appointmentDuration": 30
+                                    },
+                                    {
+                                        "roomId": "8",
+                                        "appointmentDuration": 60
+                                    }
+                                ],
+                                "dayOfWeek": "Wednesday",
+                                "providerId": "4429806010",
+                                "syncStrategy": "SEQUENTIAL_ROOMS",
+                                "appointmentType": "NEW_PATIENT_EXAM_AND_CLEANING",
+                                "doubleBookingEnabled": false,
+                                "mappingsOrderReversible": false
+                            },
+                            {
+                                "mappings": [
+                                    {
+                                        "roomId": "4",
+                                        "appointmentDuration": 30
+                                    },
+                                    {
+                                        "roomId": "8",
+                                        "appointmentDuration": 60
+                                    }
+                                ],
+                                "dayOfWeek": "Thursday",
+                                "providerId": "4429806010",
+                                "syncStrategy": "SEQUENTIAL_ROOMS",
+                                "appointmentType": "NEW_PATIENT_EXAM_AND_CLEANING",
+                                "doubleBookingEnabled": false,
+                                "mappingsOrderReversible": false
+                            },
+                            {
+                                "mappings": [
+                                    {
+                                        "roomId": "5",
+                                        "appointmentDuration": 30
+                                    },
+                                    {
+                                        "roomId": "7",
+                                        "appointmentDuration": 60
+                                    }
+                                ],
+                                "dayOfWeek": "Tuesday",
+                                "providerId": "4429806024",
+                                "syncStrategy": "SEQUENTIAL_ROOMS",
+                                "appointmentType": "NEW_PATIENT_EXAM_AND_CLEANING",
+                                "doubleBookingEnabled": false,
+                                "mappingsOrderReversible": false
+                            },
+                            {
+                                "mappings": [
+                                    {
+                                        "roomId": "5",
+                                        "appointmentDuration": 30
+                                    },
+                                    {
+                                        "roomId": "8",
+                                        "appointmentDuration": 60
+                                    }
+                                ],
+                                "dayOfWeek": "Tuesday",
+                                "providerId": "4429806024",
+                                "syncStrategy": "SEQUENTIAL_ROOMS",
+                                "appointmentType": "NEW_PATIENT_EXAM_AND_CLEANING",
+                                "doubleBookingEnabled": false,
+                                "mappingsOrderReversible": false
+                            },
+                            {
+                                "mappings": [
+                                    {
+                                        "roomId": "4",
+                                        "appointmentDuration": 30
+                                    },
+                                    {
+                                        "roomId": "8",
+                                        "appointmentDuration": 60
+                                    }
+                                ],
+                                "dayOfWeek": "Sunday",
+                                "providerId": "4429806024",
+                                "syncStrategy": "SEQUENTIAL_ROOMS",
+                                "appointmentType": "NEW_PATIENT_EXAM_AND_CLEANING",
+                                "doubleBookingEnabled": false,
+                                "mappingsOrderReversible": false
+                            },
+                            {
+                                "mappings": [
+                                    {
+                                        "roomId": "4",
+                                        "appointmentDuration": 90
+                                    },
+                                    {
+                                        "roomId": "8",
+                                        "appointmentDuration": 90
+                                    },
+                                    {
+                                        "roomId": "7",
+                                        "appointmentDuration": 90
+                                    }
+                                ],
+                                "dayOfWeek": "Sunday",
+                                "providerId": "4429806024",
+                                "syncStrategy": "ANY_ROOM",
+                                "appointmentType": "NEW_PATIENT_EXAM_AND_CLEANING",
+                                "doubleBookingEnabled": false,
+                                "mappingsOrderReversible": false
+                            },
+                            {
+                                "mappings": [
+                                    {
+                                        "roomId": "7",
+                                        "appointmentDuration": 90
+                                    },
+                                    {
+                                        "roomId": "8",
+                                        "appointmentDuration": 90
+                                    }
+                                ],
+                                "dayOfWeek": "Tuesday",
+                                "providerId": "4429806024",
+                                "syncStrategy": "ANY_ROOM",
+                                "appointmentType": "NEW_PATIENT_EXAM_AND_CLEANING",
+                                "doubleBookingEnabled": false,
+                                "mappingsOrderReversible": false
+                            },
+                            {
+                                "mappings": [
+                                    {
+                                        "roomId": "7",
+                                        "appointmentDuration": 90
+                                    },
+                                    {
+                                        "roomId": "8",
+                                        "appointmentDuration": 90
+                                    }
+                                ],
+                                "dayOfWeek": "Thursday",
+                                "providerId": "4429806011",
+                                "syncStrategy": "ANY_ROOM",
+                                "appointmentType": "NEW_PATIENT_EXAM_AND_CLEANING",
+                                "doubleBookingEnabled": false,
+                                "mappingsOrderReversible": false
+                            },
+                            {
+                                "mappings": [
+                                    {
+                                        "roomId": "7",
+                                        "appointmentDuration": 90
+                                    },
+                                    {
+                                        "roomId": "8",
+                                        "appointmentDuration": 90
+                                    }
+                                ],
+                                "dayOfWeek": "Friday",
+                                "providerId": "4429806011",
+                                "syncStrategy": "ANY_ROOM",
+                                "appointmentType": "NEW_PATIENT_EXAM_AND_CLEANING",
+                                "doubleBookingEnabled": false,
+                                "mappingsOrderReversible": false
+                            },
+                            {
+                                "mappings": [
+                                    {
+                                        "roomId": "7",
+                                        "appointmentDuration": 90
+                                    },
+                                    {
+                                        "roomId": "8",
+                                        "appointmentDuration": 90
+                                    }
+                                ],
+                                "dayOfWeek": "Saturday",
+                                "providerId": "4429806011",
+                                "syncStrategy": "ANY_ROOM",
+                                "appointmentType": "NEW_PATIENT_EXAM_AND_CLEANING",
+                                "doubleBookingEnabled": false,
+                                "mappingsOrderReversible": false
+                            },
+                            {
+                                "mappings": [
+                                    {
+                                        "roomId": "5",
+                                        "appointmentDuration": 30
+                                    },
+                                    {
+                                        "roomId": "7",
+                                        "appointmentDuration": 60
+                                    }
+                                ],
+                                "dayOfWeek": "Thursday",
+                                "providerId": "4429806011",
+                                "syncStrategy": "SEQUENTIAL_ROOMS",
+                                "appointmentType": "NEW_PATIENT_EXAM_AND_CLEANING",
+                                "doubleBookingEnabled": false,
+                                "mappingsOrderReversible": false
+                            },
+                            {
+                                "mappings": [
+                                    {
+                                        "roomId": "5",
+                                        "appointmentDuration": 30
+                                    },
+                                    {
+                                        "roomId": "7",
+                                        "appointmentDuration": 60
+                                    }
+                                ],
+                                "dayOfWeek": "Saturday",
+                                "providerId": "4429806011",
+                                "syncStrategy": "SEQUENTIAL_ROOMS",
+                                "appointmentType": "NEW_PATIENT_EXAM_AND_CLEANING",
+                                "doubleBookingEnabled": false,
+                                "mappingsOrderReversible": false
+                            },
+                            {
+                                "mappings": [
+                                    {
+                                        "roomId": "5",
+                                        "appointmentDuration": 30
+                                    },
+                                    {
+                                        "roomId": "8",
+                                        "appointmentDuration": 60
+                                    }
+                                ],
+                                "dayOfWeek": "Thursday",
+                                "providerId": "4429806011",
+                                "syncStrategy": "SEQUENTIAL_ROOMS",
+                                "appointmentType": "NEW_PATIENT_EXAM_AND_CLEANING",
+                                "doubleBookingEnabled": false,
+                                "mappingsOrderReversible": false
+                            },
+                            {
+                                "mappings": [
+                                    {
+                                        "roomId": "5",
+                                        "appointmentDuration": 30
+                                    },
+                                    {
+                                        "roomId": "8",
+                                        "appointmentDuration": 60
+                                    }
+                                ],
+                                "dayOfWeek": "Saturday",
+                                "providerId": "4429806011",
+                                "syncStrategy": "SEQUENTIAL_ROOMS",
+                                "appointmentType": "NEW_PATIENT_EXAM_AND_CLEANING",
+                                "doubleBookingEnabled": false,
+                                "mappingsOrderReversible": false
+                            },
+                            {
+                                "mappings": [
+                                    {
+                                        "roomId": "4",
+                                        "appointmentDuration": 30
+                                    },
+                                    {
+                                        "roomId": "7",
+                                        "appointmentDuration": 60
+                                    }
+                                ],
+                                "dayOfWeek": "Friday",
+                                "providerId": "4429806011",
+                                "syncStrategy": "SEQUENTIAL_ROOMS",
+                                "appointmentType": "NEW_PATIENT_EXAM_AND_CLEANING",
+                                "doubleBookingEnabled": false,
+                                "mappingsOrderReversible": false
+                            },
+                            {
+                                "mappings": [
+                                    {
+                                        "roomId": "4",
+                                        "appointmentDuration": 30
+                                    },
+                                    {
+                                        "roomId": "8",
+                                        "appointmentDuration": 60
+                                    }
+                                ],
+                                "dayOfWeek": "Friday",
+                                "providerId": "4429806011",
+                                "syncStrategy": "SEQUENTIAL_ROOMS",
+                                "appointmentType": "NEW_PATIENT_EXAM_AND_CLEANING",
+                                "doubleBookingEnabled": false,
+                                "mappingsOrderReversible": false
+                            },
+                            {
+                                "mappings": [
+                                    {
+                                        "roomId": "7",
+                                        "appointmentDuration": 90
+                                    },
+                                    {
+                                        "roomId": "8",
+                                        "appointmentDuration": 90
+                                    }
+                                ],
+                                "dayOfWeek": "Friday",
+                                "providerId": "4429806013",
+                                "syncStrategy": "ANY_ROOM",
+                                "appointmentType": "NEW_PATIENT_EXAM_AND_CLEANING",
+                                "doubleBookingEnabled": false,
+                                "mappingsOrderReversible": false
+                            },
+                            {
+                                "mappings": [
+                                    {
+                                        "roomId": "5",
+                                        "appointmentDuration": 30
+                                    },
+                                    {
+                                        "roomId": "7",
+                                        "appointmentDuration": 60
+                                    }
+                                ],
+                                "dayOfWeek": "Friday",
+                                "providerId": "4429806013",
+                                "syncStrategy": "SEQUENTIAL_ROOMS",
+                                "appointmentType": "NEW_PATIENT_EXAM_AND_CLEANING",
+                                "doubleBookingEnabled": false,
+                                "mappingsOrderReversible": false
+                            },
+                            {
+                                "mappings": [
+                                    {
+                                        "roomId": "5",
+                                        "appointmentDuration": 30
+                                    },
+                                    {
+                                        "roomId": "8",
+                                        "appointmentDuration": 60
+                                    }
+                                ],
+                                "dayOfWeek": "Friday",
+                                "providerId": "4429806013",
+                                "syncStrategy": "SEQUENTIAL_ROOMS",
+                                "appointmentType": "NEW_PATIENT_EXAM_AND_CLEANING",
+                                "doubleBookingEnabled": false,
+                                "mappingsOrderReversible": false
+                            },
+                            {
+                                "mappings": [
+                                    {
+                                        "roomId": "5",
+                                        "appointmentDuration": 90
+                                    },
+                                    {
+                                        "roomId": "7",
+                                        "appointmentDuration": 90
+                                    },
+                                    {
+                                        "roomId": "8",
+                                        "appointmentDuration": 90
+                                    }
+                                ],
+                                "dayOfWeek": "Monday",
+                                "providerId": "4429806066",
+                                "syncStrategy": "ANY_ROOM",
+                                "appointmentType": "NEW_PATIENT_EXAM_AND_CLEANING",
+                                "doubleBookingEnabled": false,
+                                "mappingsOrderReversible": false
+                            },
+                            {
+                                "mappings": [
+                                    {
+                                        "roomId": "5",
+                                        "appointmentDuration": 90
+                                    },
+                                    {
+                                        "roomId": "7",
+                                        "appointmentDuration": 90
+                                    },
+                                    {
+                                        "roomId": "8",
+                                        "appointmentDuration": 90
+                                    }
+                                ],
+                                "dayOfWeek": "Sunday",
+                                "providerId": "4429806066",
+                                "syncStrategy": "ANY_ROOM",
+                                "appointmentType": "NEW_PATIENT_EXAM_AND_CLEANING",
+                                "doubleBookingEnabled": false,
+                                "mappingsOrderReversible": false
+                            },
+                            {
+                                "mappings": [
+                                    {
+                                        "roomId": "5",
+                                        "appointmentDuration": 30
+                                    },
+                                    {
+                                        "roomId": "7",
+                                        "appointmentDuration": 60
+                                    }
+                                ],
+                                "dayOfWeek": "Monday",
+                                "providerId": "4429806066",
+                                "syncStrategy": "SEQUENTIAL_ROOMS",
+                                "appointmentType": "NEW_PATIENT_EXAM_AND_CLEANING",
+                                "doubleBookingEnabled": false,
+                                "mappingsOrderReversible": false
+                            },
+                            {
+                                "mappings": [
+                                    {
+                                        "roomId": "5",
+                                        "appointmentDuration": 30
+                                    },
+                                    {
+                                        "roomId": "7",
+                                        "appointmentDuration": 60
+                                    }
+                                ],
+                                "dayOfWeek": "Sunday",
+                                "providerId": "4429806066",
+                                "syncStrategy": "SEQUENTIAL_ROOMS",
+                                "appointmentType": "NEW_PATIENT_EXAM_AND_CLEANING",
+                                "doubleBookingEnabled": false,
+                                "mappingsOrderReversible": false
+                            },
+                            {
+                                "mappings": [
+                                    {
+                                        "roomId": "5",
+                                        "appointmentDuration": 30
+                                    },
+                                    {
+                                        "roomId": "8",
+                                        "appointmentDuration": 60
+                                    }
+                                ],
+                                "dayOfWeek": "Monday",
+                                "providerId": "4429806066",
+                                "syncStrategy": "SEQUENTIAL_ROOMS",
+                                "appointmentType": "NEW_PATIENT_EXAM_AND_CLEANING",
+                                "doubleBookingEnabled": false,
+                                "mappingsOrderReversible": false
+                            },
+                            {
+                                "mappings": [
+                                    {
+                                        "roomId": "5",
+                                        "appointmentDuration": 30
+                                    },
+                                    {
+                                        "roomId": "8",
+                                        "appointmentDuration": 60
+                                    }
+                                ],
+                                "dayOfWeek": "Sunday",
+                                "providerId": "4429806066",
+                                "syncStrategy": "SEQUENTIAL_ROOMS",
+                                "appointmentType": "NEW_PATIENT_EXAM_AND_CLEANING",
+                                "doubleBookingEnabled": false,
+                                "mappingsOrderReversible": false
+                            }
+                        ],
+                        "providers": [
+                            {
+                                "externalId": "30229",
+                                "internalId": "4429806013"
+                            },
+                            {
+                                "externalId": "130603",
+                                "internalId": "4429806066"
+                            },
+                            {
+                                "externalId": "2",
+                                "internalId": "4429806010"
+                            },
+                            {
+                                "externalId": "44217",
+                                "internalId": "4429806024"
+                            },
+                            {
+                                "externalId": "31272",
+                                "internalId": "4429806014"
+                            },
+                            {
+                                "externalId": "82",
+                                "internalId": "4429806011"
+                            }
+                        ],
+                        "readEnabled": true
+                    },
+                    "syncEnabled": true,
+                    "premiumIvEnabled": false,
+                    "premiumIvEnabledAt": null,
+                    "premiumIvChurnAt": null,
+                    "billingAddress": null,
+                    "noMatchInsuranceProviders": [],
+                    "noMatchUninsuredPatients": false,
+                    "videoIds": null,
+                    "feature_flags": [],
+                    "currentStatus": "LIVE"
+                },
+                "doctor": 24631324382,
+                "deletedAt": null,
+                "createdAt": "2025-04-21T15:30:15.532+00:00",
+                "updatedAt": "2025-04-21T15:30:15.532+00:00",
+                "hours": [
+                    {
+                        "start": 0,
+                        "end": 0
+                    },
+                    {
+                        "start": 0,
+                        "end": 0
+                    },
+                    {
+                        "start": 0,
+                        "end": 0
+                    },
+                    {
+                        "start": 0,
+                        "end": 0
+                    },
+                    {
+                        "start": 0,
+                        "end": 0
+                    },
+                    {
+                        "start": 0,
+                        "end": 0
+                    },
+                    {
+                        "start": 0,
+                        "end": 0
+                    }
+                ],
+                "relationshipConfirmed": true,
+                "availability": {
+                    "daysInAdvanceFullyBooked": 0,
+                    "periodScores": [
+                        [
+                            1,
+                            1,
+                            1,
+                            1,
+                            1,
+                            1
+                        ],
+                        [
+                            1,
+                            1,
+                            1,
+                            1,
+                            1,
+                            1
+                        ],
+                        [
+                            1,
+                            1,
+                            1,
+                            1,
+                            1,
+                            1
+                        ],
+                        [
+                            1,
+                            1,
+                            1,
+                            1,
+                            1,
+                            1
+                        ],
+                        [
+                            1,
+                            1,
+                            1,
+                            1,
+                            1,
+                            1
+                        ],
+                        [
+                            1,
+                            1,
+                            1,
+                            1,
+                            1,
+                            1
+                        ],
+                        [
+                            1,
+                            1,
+                            1,
+                            1,
+                            1,
+                            1
+                        ]
+                    ]
+                },
+                "onlineBooking": false,
+                "unavailableBetween": null,
+                "phone": null,
+                "isPrimary": false,
+                "suite": null,
+                "primeEligible": false,
+                "reservedSlotBooking": true,
+                "metadata": {},
+                "daysNoticeForAppointment": 0,
+                "onlineBookingAutoEnableDate": null,
+                "onlineBookingRemindDate": null,
+                "offeredAppointmentTypes": [
+                    {
+                        "id": 3952489,
+                        "provider": 4429809656,
+                        "appointmentType": {
+                            "id": 4133,
+                            "name": "Dental Consultation",
+                            "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                            "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                            "specialty": {
+                                "id": 525,
+                                "name": "Dentist",
+                                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                                "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                                "adjective": "General Dentistry",
+                                "field": "Dentistry",
+                                "namePlural": "Dentists",
+                                "slug": "dentist",
+                                "slugPlural": "dentists",
+                                "deletedAt": null,
+                                "fieldLowercase": "dentistry",
+                                "nameLowercase": "dentist",
+                                "nameLowercasePlural": "dentists",
+                                "nameShort": "Dentist",
+                                "nameShortLowercase": "dentist",
+                                "nameShortPlural": "Dentists",
+                                "nameShortLowercasePlural": "dentists",
+                                "nameAbbreviated": null,
+                                "nameAbbreviatedPlural": null,
+                                "parentSpecialty": null,
+                                "nameAlt": "General Dentist",
+                                "nameAltPlural": "General Dentists"
+                            },
+                            "defaultDuration": 45,
+                            "deletedAt": null
+                        },
+                        "price": null,
+                        "duration": 45,
+                        "deletedAt": null,
+                        "createdAt": "2025-04-21T15:30:15.548+00:00",
+                        "updatedAt": "2025-04-21T15:30:15.548+00:00",
+                        "sendReminderEmails": true
+                    },
+                    {
+                        "id": 3952490,
+                        "provider": 4429809656,
+                        "appointmentType": {
+                            "id": 909,
+                            "name": "Dentures Consultation",
+                            "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                            "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                            "specialty": {
+                                "id": 525,
+                                "name": "Dentist",
+                                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                                "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                                "adjective": "General Dentistry",
+                                "field": "Dentistry",
+                                "namePlural": "Dentists",
+                                "slug": "dentist",
+                                "slugPlural": "dentists",
+                                "deletedAt": null,
+                                "fieldLowercase": "dentistry",
+                                "nameLowercase": "dentist",
+                                "nameLowercasePlural": "dentists",
+                                "nameShort": "Dentist",
+                                "nameShortLowercase": "dentist",
+                                "nameShortPlural": "Dentists",
+                                "nameShortLowercasePlural": "dentists",
+                                "nameAbbreviated": null,
+                                "nameAbbreviatedPlural": null,
+                                "parentSpecialty": null,
+                                "nameAlt": "General Dentist",
+                                "nameAltPlural": "General Dentists"
+                            },
+                            "defaultDuration": 30,
+                            "deletedAt": "2016-06-10T00:46:41.120685+00:00"
+                        },
+                        "price": null,
+                        "duration": 30,
+                        "deletedAt": null,
+                        "createdAt": "2025-04-21T15:30:15.548+00:00",
+                        "updatedAt": "2025-04-21T15:30:15.548+00:00",
+                        "sendReminderEmails": true
+                    },
+                    {
+                        "id": 3952491,
+                        "provider": 4429809656,
+                        "appointmentType": {
+                            "id": 5,
+                            "name": "Dental Cleaning",
+                            "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                            "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                            "specialty": {
+                                "id": 525,
+                                "name": "Dentist",
+                                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                                "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                                "adjective": "General Dentistry",
+                                "field": "Dentistry",
+                                "namePlural": "Dentists",
+                                "slug": "dentist",
+                                "slugPlural": "dentists",
+                                "deletedAt": null,
+                                "fieldLowercase": "dentistry",
+                                "nameLowercase": "dentist",
+                                "nameLowercasePlural": "dentists",
+                                "nameShort": "Dentist",
+                                "nameShortLowercase": "dentist",
+                                "nameShortPlural": "Dentists",
+                                "nameShortLowercasePlural": "dentists",
+                                "nameAbbreviated": null,
+                                "nameAbbreviatedPlural": null,
+                                "parentSpecialty": null,
+                                "nameAlt": "General Dentist",
+                                "nameAltPlural": "General Dentists"
+                            },
+                            "defaultDuration": 45,
+                            "deletedAt": "2016-06-10T00:46:41.120685+00:00"
+                        },
+                        "price": null,
+                        "duration": 45,
+                        "deletedAt": null,
+                        "createdAt": "2025-04-21T15:30:15.548+00:00",
+                        "updatedAt": "2025-04-21T15:30:15.548+00:00",
+                        "sendReminderEmails": true
+                    },
+                    {
+                        "id": 3952492,
+                        "provider": 4429809656,
+                        "appointmentType": {
+                            "id": 12,
+                            "name": "Implant",
+                            "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                            "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                            "specialty": {
+                                "id": 525,
+                                "name": "Dentist",
+                                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                                "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                                "adjective": "General Dentistry",
+                                "field": "Dentistry",
+                                "namePlural": "Dentists",
+                                "slug": "dentist",
+                                "slugPlural": "dentists",
+                                "deletedAt": null,
+                                "fieldLowercase": "dentistry",
+                                "nameLowercase": "dentist",
+                                "nameLowercasePlural": "dentists",
+                                "nameShort": "Dentist",
+                                "nameShortLowercase": "dentist",
+                                "nameShortPlural": "Dentists",
+                                "nameShortLowercasePlural": "dentists",
+                                "nameAbbreviated": null,
+                                "nameAbbreviatedPlural": null,
+                                "parentSpecialty": null,
+                                "nameAlt": "General Dentist",
+                                "nameAltPlural": "General Dentists"
+                            },
+                            "defaultDuration": 45,
+                            "deletedAt": "2016-06-10T00:46:41.120685+00:00"
+                        },
+                        "price": null,
+                        "duration": 45,
+                        "deletedAt": null,
+                        "createdAt": "2025-04-21T15:30:15.548+00:00",
+                        "updatedAt": "2025-04-21T15:30:15.548+00:00",
+                        "sendReminderEmails": true
+                    },
+                    {
+                        "id": 3952493,
+                        "provider": 4429809656,
+                        "appointmentType": {
+                            "id": 4,
+                            "name": "Crown",
+                            "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                            "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                            "specialty": {
+                                "id": 525,
+                                "name": "Dentist",
+                                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                                "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                                "adjective": "General Dentistry",
+                                "field": "Dentistry",
+                                "namePlural": "Dentists",
+                                "slug": "dentist",
+                                "slugPlural": "dentists",
+                                "deletedAt": null,
+                                "fieldLowercase": "dentistry",
+                                "nameLowercase": "dentist",
+                                "nameLowercasePlural": "dentists",
+                                "nameShort": "Dentist",
+                                "nameShortLowercase": "dentist",
+                                "nameShortPlural": "Dentists",
+                                "nameShortLowercasePlural": "dentists",
+                                "nameAbbreviated": null,
+                                "nameAbbreviatedPlural": null,
+                                "parentSpecialty": null,
+                                "nameAlt": "General Dentist",
+                                "nameAltPlural": "General Dentists"
+                            },
+                            "defaultDuration": 45,
+                            "deletedAt": "2016-06-10T00:46:41.120685+00:00"
+                        },
+                        "price": null,
+                        "duration": 45,
+                        "deletedAt": null,
+                        "createdAt": "2025-04-21T15:30:15.548+00:00",
+                        "updatedAt": "2025-04-21T15:30:15.548+00:00",
+                        "sendReminderEmails": true
+                    },
+                    {
+                        "id": 3952494,
+                        "provider": 4429809656,
+                        "appointmentType": {
+                            "id": 4083,
+                            "name": "Bridge",
+                            "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                            "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                            "specialty": {
+                                "id": 525,
+                                "name": "Dentist",
+                                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                                "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                                "adjective": "General Dentistry",
+                                "field": "Dentistry",
+                                "namePlural": "Dentists",
+                                "slug": "dentist",
+                                "slugPlural": "dentists",
+                                "deletedAt": null,
+                                "fieldLowercase": "dentistry",
+                                "nameLowercase": "dentist",
+                                "nameLowercasePlural": "dentists",
+                                "nameShort": "Dentist",
+                                "nameShortLowercase": "dentist",
+                                "nameShortPlural": "Dentists",
+                                "nameShortLowercasePlural": "dentists",
+                                "nameAbbreviated": null,
+                                "nameAbbreviatedPlural": null,
+                                "parentSpecialty": null,
+                                "nameAlt": "General Dentist",
+                                "nameAltPlural": "General Dentists"
+                            },
+                            "defaultDuration": 60,
+                            "deletedAt": "2016-06-10T00:46:41.120685+00:00"
+                        },
+                        "price": null,
+                        "duration": 60,
+                        "deletedAt": null,
+                        "createdAt": "2025-04-21T15:30:15.548+00:00",
+                        "updatedAt": "2025-04-21T15:30:15.548+00:00",
+                        "sendReminderEmails": true
+                    },
+                    {
+                        "id": 3952495,
+                        "provider": 4429809656,
+                        "appointmentType": {
+                            "id": 7,
+                            "name": "Dental Emergency",
+                            "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                            "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                            "specialty": {
+                                "id": 525,
+                                "name": "Dentist",
+                                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                                "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                                "adjective": "General Dentistry",
+                                "field": "Dentistry",
+                                "namePlural": "Dentists",
+                                "slug": "dentist",
+                                "slugPlural": "dentists",
+                                "deletedAt": null,
+                                "fieldLowercase": "dentistry",
+                                "nameLowercase": "dentist",
+                                "nameLowercasePlural": "dentists",
+                                "nameShort": "Dentist",
+                                "nameShortLowercase": "dentist",
+                                "nameShortPlural": "Dentists",
+                                "nameShortLowercasePlural": "dentists",
+                                "nameAbbreviated": null,
+                                "nameAbbreviatedPlural": null,
+                                "parentSpecialty": null,
+                                "nameAlt": "General Dentist",
+                                "nameAltPlural": "General Dentists"
+                            },
+                            "defaultDuration": 45,
+                            "deletedAt": null
+                        },
+                        "price": null,
+                        "duration": 45,
+                        "deletedAt": null,
+                        "createdAt": "2025-04-21T15:30:15.548+00:00",
+                        "updatedAt": "2025-04-21T15:30:15.548+00:00",
+                        "sendReminderEmails": true
+                    },
+                    {
+                        "id": 3952496,
+                        "provider": 4429809656,
+                        "appointmentType": {
+                            "id": 8,
+                            "name": "Dental Follow Up",
+                            "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                            "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                            "specialty": {
+                                "id": 525,
+                                "name": "Dentist",
+                                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                                "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                                "adjective": "General Dentistry",
+                                "field": "Dentistry",
+                                "namePlural": "Dentists",
+                                "slug": "dentist",
+                                "slugPlural": "dentists",
+                                "deletedAt": null,
+                                "fieldLowercase": "dentistry",
+                                "nameLowercase": "dentist",
+                                "nameLowercasePlural": "dentists",
+                                "nameShort": "Dentist",
+                                "nameShortLowercase": "dentist",
+                                "nameShortPlural": "Dentists",
+                                "nameShortLowercasePlural": "dentists",
+                                "nameAbbreviated": null,
+                                "nameAbbreviatedPlural": null,
+                                "parentSpecialty": null,
+                                "nameAlt": "General Dentist",
+                                "nameAltPlural": "General Dentists"
+                            },
+                            "defaultDuration": 45,
+                            "deletedAt": "2016-06-10T00:46:41.120685+00:00"
+                        },
+                        "price": null,
+                        "duration": 45,
+                        "deletedAt": null,
+                        "createdAt": "2025-04-21T15:30:15.548+00:00",
+                        "updatedAt": "2025-04-21T15:30:15.548+00:00",
+                        "sendReminderEmails": true
+                    },
+                    {
+                        "id": 3952497,
+                        "provider": 4429809656,
+                        "appointmentType": {
+                            "id": 9,
+                            "name": "Dentures",
+                            "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                            "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                            "specialty": {
+                                "id": 525,
+                                "name": "Dentist",
+                                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                                "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                                "adjective": "General Dentistry",
+                                "field": "Dentistry",
+                                "namePlural": "Dentists",
+                                "slug": "dentist",
+                                "slugPlural": "dentists",
+                                "deletedAt": null,
+                                "fieldLowercase": "dentistry",
+                                "nameLowercase": "dentist",
+                                "nameLowercasePlural": "dentists",
+                                "nameShort": "Dentist",
+                                "nameShortLowercase": "dentist",
+                                "nameShortPlural": "Dentists",
+                                "nameShortLowercasePlural": "dentists",
+                                "nameAbbreviated": null,
+                                "nameAbbreviatedPlural": null,
+                                "parentSpecialty": null,
+                                "nameAlt": "General Dentist",
+                                "nameAltPlural": "General Dentists"
+                            },
+                            "defaultDuration": 45,
+                            "deletedAt": "2016-06-10T00:46:41.120685+00:00"
+                        },
+                        "price": null,
+                        "duration": 45,
+                        "deletedAt": null,
+                        "createdAt": "2025-04-21T15:30:15.548+00:00",
+                        "updatedAt": "2025-04-21T15:30:15.548+00:00",
+                        "sendReminderEmails": true
+                    },
+                    {
+                        "id": 3952498,
+                        "provider": 4429809656,
+                        "appointmentType": {
+                            "id": 11,
+                            "name": "Gum Surgery",
+                            "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                            "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                            "specialty": {
+                                "id": 525,
+                                "name": "Dentist",
+                                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                                "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                                "adjective": "General Dentistry",
+                                "field": "Dentistry",
+                                "namePlural": "Dentists",
+                                "slug": "dentist",
+                                "slugPlural": "dentists",
+                                "deletedAt": null,
+                                "fieldLowercase": "dentistry",
+                                "nameLowercase": "dentist",
+                                "nameLowercasePlural": "dentists",
+                                "nameShort": "Dentist",
+                                "nameShortLowercase": "dentist",
+                                "nameShortPlural": "Dentists",
+                                "nameShortLowercasePlural": "dentists",
+                                "nameAbbreviated": null,
+                                "nameAbbreviatedPlural": null,
+                                "parentSpecialty": null,
+                                "nameAlt": "General Dentist",
+                                "nameAltPlural": "General Dentists"
+                            },
+                            "defaultDuration": 45,
+                            "deletedAt": "2016-06-10T00:46:41.120685+00:00"
+                        },
+                        "price": null,
+                        "duration": 45,
+                        "deletedAt": null,
+                        "createdAt": "2025-04-21T15:30:15.548+00:00",
+                        "updatedAt": "2025-04-21T15:30:15.548+00:00",
+                        "sendReminderEmails": true
+                    },
+                    {
+                        "id": 3952499,
+                        "provider": 4429809656,
+                        "appointmentType": {
+                            "id": 13,
+                            "name": "Invisalign",
+                            "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                            "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                            "specialty": {
+                                "id": 525,
+                                "name": "Dentist",
+                                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                                "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                                "adjective": "General Dentistry",
+                                "field": "Dentistry",
+                                "namePlural": "Dentists",
+                                "slug": "dentist",
+                                "slugPlural": "dentists",
+                                "deletedAt": null,
+                                "fieldLowercase": "dentistry",
+                                "nameLowercase": "dentist",
+                                "nameLowercasePlural": "dentists",
+                                "nameShort": "Dentist",
+                                "nameShortLowercase": "dentist",
+                                "nameShortPlural": "Dentists",
+                                "nameShortLowercasePlural": "dentists",
+                                "nameAbbreviated": null,
+                                "nameAbbreviatedPlural": null,
+                                "parentSpecialty": null,
+                                "nameAlt": "General Dentist",
+                                "nameAltPlural": "General Dentists"
+                            },
+                            "defaultDuration": 45,
+                            "deletedAt": "2016-06-10T00:46:41.120685+00:00"
+                        },
+                        "price": null,
+                        "duration": 45,
+                        "deletedAt": null,
+                        "createdAt": "2025-04-21T15:30:15.548+00:00",
+                        "updatedAt": "2025-04-21T15:30:15.548+00:00",
+                        "sendReminderEmails": true
+                    },
+                    {
+                        "id": 3952500,
+                        "provider": 4429809656,
+                        "appointmentType": {
+                            "id": 3,
+                            "name": "Braces",
+                            "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                            "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                            "specialty": {
+                                "id": 525,
+                                "name": "Dentist",
+                                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                                "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                                "adjective": "General Dentistry",
+                                "field": "Dentistry",
+                                "namePlural": "Dentists",
+                                "slug": "dentist",
+                                "slugPlural": "dentists",
+                                "deletedAt": null,
+                                "fieldLowercase": "dentistry",
+                                "nameLowercase": "dentist",
+                                "nameLowercasePlural": "dentists",
+                                "nameShort": "Dentist",
+                                "nameShortLowercase": "dentist",
+                                "nameShortPlural": "Dentists",
+                                "nameShortLowercasePlural": "dentists",
+                                "nameAbbreviated": null,
+                                "nameAbbreviatedPlural": null,
+                                "parentSpecialty": null,
+                                "nameAlt": "General Dentist",
+                                "nameAltPlural": "General Dentists"
+                            },
+                            "defaultDuration": 45,
+                            "deletedAt": "2016-06-10T00:46:41.120685+00:00"
+                        },
+                        "price": null,
+                        "duration": 45,
+                        "deletedAt": null,
+                        "createdAt": "2025-04-21T15:30:15.548+00:00",
+                        "updatedAt": "2025-04-21T15:30:15.548+00:00",
+                        "sendReminderEmails": true
+                    },
+                    {
+                        "id": 3952501,
+                        "provider": 4429809656,
+                        "appointmentType": {
+                            "id": 14,
+                            "name": "Retainer Installation",
+                            "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                            "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                            "specialty": {
+                                "id": 525,
+                                "name": "Dentist",
+                                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                                "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                                "adjective": "General Dentistry",
+                                "field": "Dentistry",
+                                "namePlural": "Dentists",
+                                "slug": "dentist",
+                                "slugPlural": "dentists",
+                                "deletedAt": null,
+                                "fieldLowercase": "dentistry",
+                                "nameLowercase": "dentist",
+                                "nameLowercasePlural": "dentists",
+                                "nameShort": "Dentist",
+                                "nameShortLowercase": "dentist",
+                                "nameShortPlural": "Dentists",
+                                "nameShortLowercasePlural": "dentists",
+                                "nameAbbreviated": null,
+                                "nameAbbreviatedPlural": null,
+                                "parentSpecialty": null,
+                                "nameAlt": "General Dentist",
+                                "nameAltPlural": "General Dentists"
+                            },
+                            "defaultDuration": 45,
+                            "deletedAt": "2016-06-10T00:46:41.120685+00:00"
+                        },
+                        "price": null,
+                        "duration": 45,
+                        "deletedAt": null,
+                        "createdAt": "2025-04-21T15:30:15.548+00:00",
+                        "updatedAt": "2025-04-21T15:30:15.548+00:00",
+                        "sendReminderEmails": true
+                    },
+                    {
+                        "id": 3952502,
+                        "provider": 4429809656,
+                        "appointmentType": {
+                            "id": 4001,
+                            "name": "Snap on smile",
+                            "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                            "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                            "specialty": {
+                                "id": 525,
+                                "name": "Dentist",
+                                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                                "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                                "adjective": "General Dentistry",
+                                "field": "Dentistry",
+                                "namePlural": "Dentists",
+                                "slug": "dentist",
+                                "slugPlural": "dentists",
+                                "deletedAt": null,
+                                "fieldLowercase": "dentistry",
+                                "nameLowercase": "dentist",
+                                "nameLowercasePlural": "dentists",
+                                "nameShort": "Dentist",
+                                "nameShortLowercase": "dentist",
+                                "nameShortPlural": "Dentists",
+                                "nameShortLowercasePlural": "dentists",
+                                "nameAbbreviated": null,
+                                "nameAbbreviatedPlural": null,
+                                "parentSpecialty": null,
+                                "nameAlt": "General Dentist",
+                                "nameAltPlural": "General Dentists"
+                            },
+                            "defaultDuration": 60,
+                            "deletedAt": "2016-06-10T00:46:41.120685+00:00"
+                        },
+                        "price": null,
+                        "duration": 60,
+                        "deletedAt": null,
+                        "createdAt": "2025-04-21T15:30:15.548+00:00",
+                        "updatedAt": "2025-04-21T15:30:15.548+00:00",
+                        "sendReminderEmails": true
+                    },
+                    {
+                        "id": 3952503,
+                        "provider": 4429809656,
+                        "appointmentType": {
+                            "id": 16,
+                            "name": "Teeth Whitening",
+                            "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                            "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                            "specialty": {
+                                "id": 525,
+                                "name": "Dentist",
+                                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                                "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                                "adjective": "General Dentistry",
+                                "field": "Dentistry",
+                                "namePlural": "Dentists",
+                                "slug": "dentist",
+                                "slugPlural": "dentists",
+                                "deletedAt": null,
+                                "fieldLowercase": "dentistry",
+                                "nameLowercase": "dentist",
+                                "nameLowercasePlural": "dentists",
+                                "nameShort": "Dentist",
+                                "nameShortLowercase": "dentist",
+                                "nameShortPlural": "Dentists",
+                                "nameShortLowercasePlural": "dentists",
+                                "nameAbbreviated": null,
+                                "nameAbbreviatedPlural": null,
+                                "parentSpecialty": null,
+                                "nameAlt": "General Dentist",
+                                "nameAltPlural": "General Dentists"
+                            },
+                            "defaultDuration": 45,
+                            "deletedAt": "2016-06-10T00:46:41.120685+00:00"
+                        },
+                        "price": null,
+                        "duration": 45,
+                        "deletedAt": null,
+                        "createdAt": "2025-04-21T15:30:15.548+00:00",
+                        "updatedAt": "2025-04-21T15:30:15.548+00:00",
+                        "sendReminderEmails": true
+                    },
+                    {
+                        "id": 3952504,
+                        "provider": 4429809656,
+                        "appointmentType": {
+                            "id": 17,
+                            "name": "Tooth Extraction",
+                            "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                            "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                            "specialty": {
+                                "id": 525,
+                                "name": "Dentist",
+                                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                                "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                                "adjective": "General Dentistry",
+                                "field": "Dentistry",
+                                "namePlural": "Dentists",
+                                "slug": "dentist",
+                                "slugPlural": "dentists",
+                                "deletedAt": null,
+                                "fieldLowercase": "dentistry",
+                                "nameLowercase": "dentist",
+                                "nameLowercasePlural": "dentists",
+                                "nameShort": "Dentist",
+                                "nameShortLowercase": "dentist",
+                                "nameShortPlural": "Dentists",
+                                "nameShortLowercasePlural": "dentists",
+                                "nameAbbreviated": null,
+                                "nameAbbreviatedPlural": null,
+                                "parentSpecialty": null,
+                                "nameAlt": "General Dentist",
+                                "nameAltPlural": "General Dentists"
+                            },
+                            "defaultDuration": 45,
+                            "deletedAt": "2016-06-10T00:46:41.120685+00:00"
+                        },
+                        "price": null,
+                        "duration": 45,
+                        "deletedAt": null,
+                        "createdAt": "2025-04-21T15:30:15.548+00:00",
+                        "updatedAt": "2025-04-21T15:30:15.548+00:00",
+                        "sendReminderEmails": true
+                    },
+                    {
+                        "id": 3952505,
+                        "provider": 4429809656,
+                        "appointmentType": {
+                            "id": 19,
+                            "name": "Wisdom Tooth Problem",
+                            "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                            "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                            "specialty": {
+                                "id": 525,
+                                "name": "Dentist",
+                                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                                "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                                "adjective": "General Dentistry",
+                                "field": "Dentistry",
+                                "namePlural": "Dentists",
+                                "slug": "dentist",
+                                "slugPlural": "dentists",
+                                "deletedAt": null,
+                                "fieldLowercase": "dentistry",
+                                "nameLowercase": "dentist",
+                                "nameLowercasePlural": "dentists",
+                                "nameShort": "Dentist",
+                                "nameShortLowercase": "dentist",
+                                "nameShortPlural": "Dentists",
+                                "nameShortLowercasePlural": "dentists",
+                                "nameAbbreviated": null,
+                                "nameAbbreviatedPlural": null,
+                                "parentSpecialty": null,
+                                "nameAlt": "General Dentist",
+                                "nameAltPlural": "General Dentists"
+                            },
+                            "defaultDuration": 45,
+                            "deletedAt": "2016-06-10T00:46:41.120685+00:00"
+                        },
+                        "price": null,
+                        "duration": 45,
+                        "deletedAt": null,
+                        "createdAt": "2025-04-21T15:30:15.548+00:00",
+                        "updatedAt": "2025-04-21T15:30:15.548+00:00",
+                        "sendReminderEmails": true
+                    },
+                    {
+                        "id": 3952506,
+                        "provider": 4429809656,
+                        "appointmentType": {
+                            "id": 18,
+                            "name": "Veneers",
+                            "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                            "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                            "specialty": {
+                                "id": 525,
+                                "name": "Dentist",
+                                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                                "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                                "adjective": "General Dentistry",
+                                "field": "Dentistry",
+                                "namePlural": "Dentists",
+                                "slug": "dentist",
+                                "slugPlural": "dentists",
+                                "deletedAt": null,
+                                "fieldLowercase": "dentistry",
+                                "nameLowercase": "dentist",
+                                "nameLowercasePlural": "dentists",
+                                "nameShort": "Dentist",
+                                "nameShortLowercase": "dentist",
+                                "nameShortPlural": "Dentists",
+                                "nameShortLowercasePlural": "dentists",
+                                "nameAbbreviated": null,
+                                "nameAbbreviatedPlural": null,
+                                "parentSpecialty": null,
+                                "nameAlt": "General Dentist",
+                                "nameAltPlural": "General Dentists"
+                            },
+                            "defaultDuration": 45,
+                            "deletedAt": "2016-06-10T00:46:41.120685+00:00"
+                        },
+                        "price": null,
+                        "duration": 45,
+                        "deletedAt": null,
+                        "createdAt": "2025-04-21T15:30:15.548+00:00",
+                        "updatedAt": "2025-04-21T15:30:15.548+00:00",
+                        "sendReminderEmails": true
+                    },
+                    {
+                        "id": 3952507,
+                        "provider": 4429809656,
+                        "appointmentType": {
+                            "id": 15,
+                            "name": "Root Canal",
+                            "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                            "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                            "specialty": {
+                                "id": 525,
+                                "name": "Dentist",
+                                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                                "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                                "adjective": "General Dentistry",
+                                "field": "Dentistry",
+                                "namePlural": "Dentists",
+                                "slug": "dentist",
+                                "slugPlural": "dentists",
+                                "deletedAt": null,
+                                "fieldLowercase": "dentistry",
+                                "nameLowercase": "dentist",
+                                "nameLowercasePlural": "dentists",
+                                "nameShort": "Dentist",
+                                "nameShortLowercase": "dentist",
+                                "nameShortPlural": "Dentists",
+                                "nameShortLowercasePlural": "dentists",
+                                "nameAbbreviated": null,
+                                "nameAbbreviatedPlural": null,
+                                "parentSpecialty": null,
+                                "nameAlt": "General Dentist",
+                                "nameAltPlural": "General Dentists"
+                            },
+                            "defaultDuration": 45,
+                            "deletedAt": "2016-06-10T00:46:41.120685+00:00"
+                        },
+                        "price": null,
+                        "duration": 45,
+                        "deletedAt": null,
+                        "createdAt": "2025-04-21T15:30:15.548+00:00",
+                        "updatedAt": "2025-04-21T15:30:15.548+00:00",
+                        "sendReminderEmails": true
+                    },
+                    {
+                        "id": 3952508,
+                        "provider": 4429809656,
+                        "appointmentType": {
+                            "id": 4002,
+                            "name": "Sleep apnea",
+                            "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                            "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                            "specialty": {
+                                "id": 525,
+                                "name": "Dentist",
+                                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                                "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                                "adjective": "General Dentistry",
+                                "field": "Dentistry",
+                                "namePlural": "Dentists",
+                                "slug": "dentist",
+                                "slugPlural": "dentists",
+                                "deletedAt": null,
+                                "fieldLowercase": "dentistry",
+                                "nameLowercase": "dentist",
+                                "nameLowercasePlural": "dentists",
+                                "nameShort": "Dentist",
+                                "nameShortLowercase": "dentist",
+                                "nameShortPlural": "Dentists",
+                                "nameShortLowercasePlural": "dentists",
+                                "nameAbbreviated": null,
+                                "nameAbbreviatedPlural": null,
+                                "parentSpecialty": null,
+                                "nameAlt": "General Dentist",
+                                "nameAltPlural": "General Dentists"
+                            },
+                            "defaultDuration": 60,
+                            "deletedAt": "2016-06-10T00:46:41.120685+00:00"
+                        },
+                        "price": null,
+                        "duration": 60,
+                        "deletedAt": null,
+                        "createdAt": "2025-04-21T15:30:15.548+00:00",
+                        "updatedAt": "2025-04-21T15:30:15.548+00:00",
+                        "sendReminderEmails": true
+                    },
+                    {
+                        "id": 3952509,
+                        "provider": 4429809656,
+                        "appointmentType": {
+                            "id": 2,
+                            "name": "Follow Up Visit",
+                            "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                            "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                            "specialty": {
+                                "id": 525,
+                                "name": "Dentist",
+                                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                                "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                                "adjective": "General Dentistry",
+                                "field": "Dentistry",
+                                "namePlural": "Dentists",
+                                "slug": "dentist",
+                                "slugPlural": "dentists",
+                                "deletedAt": null,
+                                "fieldLowercase": "dentistry",
+                                "nameLowercase": "dentist",
+                                "nameLowercasePlural": "dentists",
+                                "nameShort": "Dentist",
+                                "nameShortLowercase": "dentist",
+                                "nameShortPlural": "Dentists",
+                                "nameShortLowercasePlural": "dentists",
+                                "nameAbbreviated": null,
+                                "nameAbbreviatedPlural": null,
+                                "parentSpecialty": null,
+                                "nameAlt": "General Dentist",
+                                "nameAltPlural": "General Dentists"
+                            },
+                            "defaultDuration": 45,
+                            "deletedAt": "2016-06-10T00:46:41.120685+00:00"
+                        },
+                        "price": null,
+                        "duration": 45,
+                        "deletedAt": null,
+                        "createdAt": "2025-04-21T15:30:15.548+00:00",
+                        "updatedAt": "2025-04-21T15:30:15.548+00:00",
+                        "sendReminderEmails": true
+                    },
+                    {
+                        "id": 3952510,
+                        "provider": 4429809656,
+                        "appointmentType": {
+                            "id": 10,
+                            "name": "Filling",
+                            "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                            "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                            "specialty": {
+                                "id": 525,
+                                "name": "Dentist",
+                                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                                "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                                "adjective": "General Dentistry",
+                                "field": "Dentistry",
+                                "namePlural": "Dentists",
+                                "slug": "dentist",
+                                "slugPlural": "dentists",
+                                "deletedAt": null,
+                                "fieldLowercase": "dentistry",
+                                "nameLowercase": "dentist",
+                                "nameLowercasePlural": "dentists",
+                                "nameShort": "Dentist",
+                                "nameShortLowercase": "dentist",
+                                "nameShortPlural": "Dentists",
+                                "nameShortLowercasePlural": "dentists",
+                                "nameAbbreviated": null,
+                                "nameAbbreviatedPlural": null,
+                                "parentSpecialty": null,
+                                "nameAlt": "General Dentist",
+                                "nameAltPlural": "General Dentists"
+                            },
+                            "defaultDuration": 45,
+                            "deletedAt": "2016-06-10T00:46:41.120685+00:00"
+                        },
+                        "price": null,
+                        "duration": 45,
+                        "deletedAt": null,
+                        "createdAt": "2025-04-21T15:30:15.548+00:00",
+                        "updatedAt": "2025-04-21T15:30:15.548+00:00",
+                        "sendReminderEmails": true
+                    },
+                    {
+                        "id": 3952511,
+                        "provider": 4429809656,
+                        "appointmentType": {
+                            "id": 1,
+                            "name": "Initial Visit",
+                            "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                            "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                            "specialty": {
+                                "id": 525,
+                                "name": "Dentist",
+                                "createdAt": "2017-06-16T11:41:29.628986+00:00",
+                                "updatedAt": "2017-06-16T11:41:29.628986+00:00",
+                                "adjective": "General Dentistry",
+                                "field": "Dentistry",
+                                "namePlural": "Dentists",
+                                "slug": "dentist",
+                                "slugPlural": "dentists",
+                                "deletedAt": null,
+                                "fieldLowercase": "dentistry",
+                                "nameLowercase": "dentist",
+                                "nameLowercasePlural": "dentists",
+                                "nameShort": "Dentist",
+                                "nameShortLowercase": "dentist",
+                                "nameShortPlural": "Dentists",
+                                "nameShortLowercasePlural": "dentists",
+                                "nameAbbreviated": null,
+                                "nameAbbreviatedPlural": null,
+                                "parentSpecialty": null,
+                                "nameAlt": "General Dentist",
+                                "nameAltPlural": "General Dentists"
+                            },
+                            "defaultDuration": 60,
+                            "deletedAt": null
+                        },
+                        "price": null,
+                        "duration": 60,
+                        "deletedAt": null,
+                        "createdAt": "2025-04-21T15:30:15.548+00:00",
+                        "updatedAt": "2025-04-21T15:30:15.548+00:00",
+                        "sendReminderEmails": true
+                    }
+                ],
+                "offeredServices": [],
+                "specialties": [],
+                "onVacationNow": null
+            }
+        ],
+        "aggregateRating": 0,
+        "reviewsCount": 0,
+        "aggregateSubratings": {},
+        "externalAggregateRating": 0,
+        "externalReviewsCount": 0,
+        "yearsExperience": null
+    }
+]
